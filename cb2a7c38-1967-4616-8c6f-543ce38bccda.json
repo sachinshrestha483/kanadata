@@ -3,5 +3,22 @@
   "Title": "Test",
   "DisplayOrder": 0,
   "IsVisible": true,
-  "Items": []
+  "Items": [
+    {
+      "Id": "a791d23b-0ed5-4cc8-a38b-f30cc0c176b5",
+      "Front": "dvjk",
+      "Back": "KDLKDSD",
+      "IsVisible": true,
+      "IsBothSideCard": true,
+      "Items": []
+    },
+    {
+      "Id": "dfd02b2c-69ba-4ad3-a8c5-34358ffbecc4",
+      "Front": "FCSOK",
+      "Back": "OKFOSKDF",
+      "IsVisible": true,
+      "IsBothSideCard": true,
+      "Items": []
+    }
+  ]
 }

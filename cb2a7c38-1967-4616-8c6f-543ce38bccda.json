@@ -5,19 +5,35 @@
   "IsVisible": true,
   "Items": [
     {
-      "Id": "a791d23b-0ed5-4cc8-a38b-f30cc0c176b5",
-      "Front": "dvjk",
-      "Back": "KDLKDSD",
+      "Id": "e128bad8-0b79-4bee-b295-e69fae053d7e",
+      "Front": "kjglkL",
+      "Back": "KSKFSDL",
+      "IsVisible": false,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3c135a88-2acd-4919-825d-81441b6571a4",
+      "Front": "ASD",
+      "Back": "SD",
+      "IsVisible": false,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2ddc7178-f5a4-4db7-9cce-a5ab61e1a280",
+      "Front": "fokdsf",
+      "Back": "flkefol",
       "IsVisible": true,
       "IsBothSideCard": true,
       "Items": []
     },
     {
-      "Id": "dfd02b2c-69ba-4ad3-a8c5-34358ffbecc4",
-      "Front": "FCSOK",
-      "Back": "OKFOSKDF",
+      "Id": "872680a4-0d4f-4165-8fa4-f1976bdf7ee6",
+      "Front": "capital of india ",
+      "Back": "Delhi",
       "IsVisible": true,
-      "IsBothSideCard": true,
+      "IsBothSideCard": false,
       "Items": []
     }
   ]

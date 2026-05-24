@@ -1,0 +1,232 @@
+{
+  "Id": "32e2f56e-a51e-4571-a2bd-179b9baad33b",
+  "Title": "Chapter 1",
+  "DisplayOrder": 1,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "c8be89c8-8b32-4f0b-babe-9af0f38fab46",
+      "Front": "\u4E00",
+      "Back": "\u3044\u3061 \u2014 one",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "bf2eacad-260a-4eac-b98c-adca1f7187cc",
+      "Front": "\u4E00\u3064",
+      "Back": "\u3072\u3068\u3064 \u2014 one thing",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "73392658-be6e-4b6e-a77e-e6cba0ce23f3",
+      "Front": "\u4E8C",
+      "Back": "\u306B \u2014 two",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "127299aa-9da9-4dc1-8457-db84325e5b5c",
+      "Front": "\u4E8C\u3064",
+      "Back": "\u3075\u305F\u3064 \u2014 two things",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "361eb6e9-0b46-4939-9b51-b7302c693634",
+      "Front": "\u4E09",
+      "Back": "\u3055\u3093 \u2014 three",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3b29b6a0-f4c1-4d30-8ec6-0a6a1b4a7698",
+      "Front": "\u4E09\u3064",
+      "Back": "\u307F\u3063\u3064 \u2014 three things",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2f865d90-d5e1-4e2a-87b0-2ce0921418dd",
+      "Front": "\u56DB",
+      "Back": "\u3088\u3093\uFF0F\u3057 \u2014 four",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7580b82f-4c03-4ca7-a01a-61c65196077e",
+      "Front": "\u56DB\u3064",
+      "Back": "\u3088\u3063\u3064 \u2014 four things",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7a0a4c5e-c20d-408c-92b7-e538d1c6496b",
+      "Front": "\u4E94",
+      "Back": "\u3054 \u2014 five",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "49675ef1-6631-4a14-8255-a6309b5a8906",
+      "Front": "\u4E94\u3064",
+      "Back": "\u3044\u3064\u3064 \u2014 five things",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e7700d2e-0c0f-40f4-8807-fd105f43f84c",
+      "Front": "\u516D",
+      "Back": "\u308D\u304F \u2014 six",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f5a698af-39ed-4a2e-8438-f0bab51fb7ec",
+      "Front": "\u516D\u3064",
+      "Back": "\u3080\u3063\u3064 \u2014 six things",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "5921c089-4e70-4884-9317-445adfa4cb41",
+      "Front": "\u516D\u767E",
+      "Back": "\u308D\u3063\u3074\u3083\u304F \u2014 six hundred",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "11822ca4-5d31-4034-b2d7-3dff9d27570a",
+      "Front": "\u4E03",
+      "Back": "\u3057\u3061\uFF0F\u306A\u306A \u2014 seven",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f148b154-8e2c-4499-bf81-92a381812c19",
+      "Front": "\u4E03\u3064",
+      "Back": "\u306A\u306A\u3064 \u2014 seven things",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "756dc42a-b0a2-445c-8bbb-5e4c84eb8edd",
+      "Front": "\u516B",
+      "Back": "\u306F\u3061 \u2014 eight",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "03ba50c4-e183-4089-8e3a-97ef226c6a9c",
+      "Front": "\u516B\u3064",
+      "Back": "\u3084\u3063\u3064 \u2014 eight things",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "df84475e-6285-4f6a-bbff-e138d93c77dd",
+      "Front": "\u516B\u767E",
+      "Back": "\u306F\u3063\u3074\u3083\u304F \u2014 eight hundred",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1763b7f9-0854-4704-a08f-9fcd2daf379c",
+      "Front": "\u4E5D",
+      "Back": "\u304D\u3085\u3046\uFF0F\u304F \u2014 nine",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9a4473eb-ffac-4337-975f-a453855e08d1",
+      "Front": "\u4E5D\u3064",
+      "Back": "\u3053\u3053\u306E\u3064 \u2014 nine things",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ccfaf5a7-17f2-43cc-aaac-6e7d8b3e4b82",
+      "Front": "\u5341",
+      "Back": "\u3058\u3085\u3046\uFF0F\u3068\u304A \u2014 ten",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "230cb765-3e0b-426c-b94e-3ddca25f7071",
+      "Front": "\u767E",
+      "Back": "\u3072\u3083\u304F \u2014 one hundred",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a03e0cd0-f515-4ffd-802d-41dbd423d7ec",
+      "Front": "\u4E8C\u767E",
+      "Back": "\u306B\u3072\u3083\u304F \u2014 two hundred",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a03860d5-233b-415a-b09a-4cbb820e768e",
+      "Front": "\u4E09\u767E",
+      "Back": "\u3055\u3093\u3073\u3083\u304F \u2014 three hundred",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "fc957c80-d493-4d8a-8238-47f1448c2e2b",
+      "Front": "\u516D\u767E",
+      "Back": "\u308D\u3063\u3074\u3083\u304F \u2014 six hundred",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "823634c2-f747-41bd-afff-7a3807613c23",
+      "Front": "\u516B\u767E",
+      "Back": "\u306F\u3063\u3074\u3083\u304F \u2014 eight hundred",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "bdefd626-b8f1-4d62-bd94-a13552a61710",
+      "Front": "\u767E\u5186\u3067\u3059",
+      "Back": "\u3072\u3083\u304F\u3048\u3093\u3067\u3059 \u2014 it is 100 yen",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "bc65b30d-5975-4e2f-991e-2cbb4a45dff5",
+      "Front": "\u4E8C\u767E\u4EBA\u3044\u307E\u3059",
+      "Back": "\u306B\u3072\u3083\u304F\u306B\u3093\u3044\u307E\u3059 \u2014 there are 200 people",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
+}

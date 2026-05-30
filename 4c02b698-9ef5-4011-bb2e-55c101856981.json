@@ -1,0 +1,488 @@
+{
+  "Id": "4c02b698-9ef5-4011-bb2e-55c101856981",
+  "Title": "Chapter 2 Writing Practice",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "290e4117-18fb-4fd3-a2f7-81e76247bae5",
+      "Front": "\u3044\u3061",
+      "Back": "\u4E00",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8a9f15d7-2fb2-40d3-9e56-a5b649177d17",
+      "Front": "\u3044\u3061\u304C\u3064",
+      "Back": "\u4E00\u6708",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "0a9b98bd-d41b-4aff-851f-75acc9767101",
+      "Front": "\u3072\u3068\u308A",
+      "Back": "\u4E00\u4EBA",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7eb1af5a-de7f-4283-984c-6c039da0b388",
+      "Front": "\u306B",
+      "Back": "\u4E8C",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a5d6b975-7bb0-4a99-8bc3-ec32472d1bf0",
+      "Front": "\u306B\u304C\u3064",
+      "Back": "\u4E8C\u6708",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ab84f71c-a289-4a6b-b0e1-e4542bdc3fa9",
+      "Front": "\u3075\u305F\u308A",
+      "Back": "\u4E8C\u4EBA",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "0d5882ed-79b3-4761-a4fa-65c5b45ca6bb",
+      "Front": "\u3055\u3093",
+      "Back": "\u4E09",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9f7ef438-2a9a-45aa-9c7f-ddeb4abb5649",
+      "Front": "\u3055\u3093\u304C\u3064",
+      "Back": "\u4E09\u6708",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "5cce5ca3-5838-49e4-82a0-98f0d9f881d6",
+      "Front": "\u307F\u3063\u304B",
+      "Back": "\u4E09\u65E5",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "35bf67d1-7adc-4b63-a56e-b8c009c2e305",
+      "Front": "\u307F\u3063\u3064",
+      "Back": "\u4E09\u3064",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b5141eb2-6613-4709-9abe-43481885dc8c",
+      "Front": "\u3057\uFF0F\u3088\u3093",
+      "Back": "\u56DB",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c445fc58-9fbb-4413-a8ca-aa04666311ef",
+      "Front": "\u3057\u304C\u3064",
+      "Back": "\u56DB\u6708",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4451e16f-a36e-44fe-aa6e-33b292730e41",
+      "Front": "\u3088\u3058",
+      "Back": "\u56DB\u6642",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6fc1994a-5832-4448-9c10-06507b1a9e86",
+      "Front": "\u3088\u3063\u304B",
+      "Back": "\u56DB\u65E5",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "05451012-6b4f-4eb3-8794-6f7c444fae7f",
+      "Front": "\u3088\u3063\u3064",
+      "Back": "\u56DB\u3064",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4a666d51-8647-4dd9-9266-52b68e5ed62a",
+      "Front": "\u3054",
+      "Back": "\u4E94",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2741b4a3-561f-48db-b5ca-c9bf7687e012",
+      "Front": "\u3054\u304C\u3064",
+      "Back": "\u4E94\u6708",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f5297ef1-ec6e-4ded-88de-b0d36e005109",
+      "Front": "\u3044\u3064\u304B",
+      "Back": "\u4E94\u65E5",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1acf6185-f0b5-4ae1-a5d7-cd94cde37d3a",
+      "Front": "\u3044\u3064\u3064",
+      "Back": "\u4E94\u3064",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7b53d07d-4906-450b-aa6f-df924362b754",
+      "Front": "\u308D\u304F",
+      "Back": "\u516D",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "99604fe9-879a-4d95-ba91-8c6d57bbc1d8",
+      "Front": "\u308D\u304F\u304C\u3064",
+      "Back": "\u516D\u6708",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4a1b2dac-8ff8-4b95-baf6-cd6c7e298316",
+      "Front": "\u3080\u3044\u304B",
+      "Back": "\u516D\u65E5",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7c0cbec8-a631-4b29-9eb7-6ecdbf76b366",
+      "Front": "\u3080\u3063\u3064",
+      "Back": "\u516D\u3064",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8125f5da-7421-4281-b76c-43a7a8181d92",
+      "Front": "\u3057\u3061\uFF0F\u306A\u306A",
+      "Back": "\u4E03",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "05783ef1-0c09-44a9-941a-1b7f87a75884",
+      "Front": "\u3057\u3061\u304C\u3064",
+      "Back": "\u4E03\u6708",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "03614ce0-b6e8-42e4-a6da-dec0f97fd82a",
+      "Front": "\u306A\u306E\u304B",
+      "Back": "\u4E03\u65E5",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d3bb7649-66b5-4955-8255-9dfbe6f7bc9f",
+      "Front": "\u306A\u306A\u3064",
+      "Back": "\u4E03\u3064",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "55824a49-248c-4d92-9542-01d4fc392711",
+      "Front": "\u306F\u3061",
+      "Back": "\u516B",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a017e7d7-7de1-4682-a316-0c4a2ff06c5b",
+      "Front": "\u306F\u3061\u304C\u3064",
+      "Back": "\u516B\u6708",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "79ca4ad5-4390-4f62-b6ec-9b5faba0519a",
+      "Front": "\u3088\u3046\u304B",
+      "Back": "\u516B\u65E5",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "0ab9c6d1-96b1-47d7-b4bb-0075449ab13e",
+      "Front": "\u3084\u3063\u3064",
+      "Back": "\u516B\u3064",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "abdaebb8-1c0f-4500-bd26-bd38ee2ce7f4",
+      "Front": "\u304D\u3085\u3046\uFF0F\u304F",
+      "Back": "\u4E5D",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b6c30204-2c75-4a87-a9a0-e82011e70c71",
+      "Front": "\u304F\u304C\u3064",
+      "Back": "\u4E5D\u6708",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3eb341f1-c35b-4859-8092-7d0348105c94",
+      "Front": "\u3053\u3053\u306E\u304B",
+      "Back": "\u4E5D\u65E5",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "85fa1473-9f54-483e-a470-1442874ecdc0",
+      "Front": "\u3053\u3053\u306E\u3064",
+      "Back": "\u4E5D\u3064",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "01078111-277a-41f4-baaa-625a82c66b66",
+      "Front": "\u3058\u3085\u3046",
+      "Back": "\u5341",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7b87cde5-eb4b-4ae5-b101-94fe6ae6bfa6",
+      "Front": "\u3058\u3085\u3046\u304C\u3064",
+      "Back": "\u5341\u6708",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "604fee21-8297-493c-864b-0045e622179f",
+      "Front": "\u3058\u3085\u3063\u3055\u3044",
+      "Back": "\u5341\u6B73",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ef8e4d25-5a2e-4683-a3b7-786efcbc8d47",
+      "Front": "\u3068\u304A\u304B",
+      "Back": "\u5341\u65E5",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "35ef5ee2-2e9c-4a57-941b-9b84f0b488fc",
+      "Front": "\u3072\u3083\u304F",
+      "Back": "\u767E",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6dfe9705-2f51-43c4-bcc4-74007086d630",
+      "Front": "\u3055\u3093\u3073\u3083\u304F\u3048\u3093",
+      "Back": "\u4E09\u767E\u5186",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "27e35cee-926b-40dd-9e60-a925dc420ba0",
+      "Front": "\u308D\u3063\u3074\u3083\u304F",
+      "Back": "\u516D\u767E",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e18ae399-0eda-4eee-aa08-6fb851b4de68",
+      "Front": "\u305B\u3093",
+      "Back": "\u5343",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2fdda643-c6ff-4383-af03-69ef8fa7b2d0",
+      "Front": "\u3055\u3093\u305C\u3093\u3048\u3093",
+      "Back": "\u4E09\u5343\u5186",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "5884bfef-5a3e-45b7-9c30-66f33abea0d0",
+      "Front": "\u3061\u3070",
+      "Back": "\u5343\u8449",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e1a4dc78-c9ff-4e61-8091-1dd13ca9ed13",
+      "Front": "\u307E\u3093",
+      "Back": "\u4E07",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "60916bdc-da01-4afc-996e-945d67de0c20",
+      "Front": "\u3044\u3061\u307E\u3093\u3048\u3093",
+      "Back": "\u4E00\u4E07\u5186",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3d92bb7f-f5d7-47b8-b474-570cf05bfd4a",
+      "Front": "\u3072\u3083\u304F\u307E\u3093",
+      "Back": "\u767E\u4E07",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "bae5d111-7fc3-4489-96d0-8f6d99c7d268",
+      "Front": "\u3044\u3063\u305B\u3093\u307E\u3093",
+      "Back": "\u4E00\u5343\u4E07",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b9d932ca-176e-4554-becd-c9d492ad3565",
+      "Front": "\u3048\u3093",
+      "Back": "\u5186",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9dcf3bbc-d641-4b7d-9d6f-f66176a6aa1f",
+      "Front": "\u3072\u3083\u304F\u3048\u3093",
+      "Back": "\u767E\u5186",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "eaa8a046-6893-4b40-9ca9-21c41a3ecc11",
+      "Front": "\u305B\u3093\u3048\u3093",
+      "Back": "\u5343\u5186",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e4d36710-3c35-4985-b22f-56420579ebae",
+      "Front": "\u3044\u3061\u307E\u3093\u3048\u3093",
+      "Back": "\u4E00\u4E07\u5186",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b78b5988-59d1-40b0-ac03-fa523a7cf14e",
+      "Front": "\u307E\u308B\u3044",
+      "Back": "\u5186\u3044",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "435bb461-ca81-4168-baa7-d526e5f57c1b",
+      "Front": "\u304E\u3085\u3046\u306B\u304F",
+      "Back": "\u725B\u8089",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "915bd2a9-6cc5-41a2-9513-c695a939c78b",
+      "Front": "\u3055\u3093",
+      "Back": "\u7523",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6fe13ef5-b955-4bad-945c-eb64a1603b76",
+      "Front": "\u30A2\u30E1\u30EA\u30AB\u3055\u3093",
+      "Back": "\u30A2\u30E1\u30EA\u30AB\u7523",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c5395cbb-368c-4884-85db-c4e8d747681b",
+      "Front": "\u3073\u304D",
+      "Back": "\u5F15\u304D",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ff8ba8ca-0343-42b8-9402-771b38d19fa4",
+      "Front": "\u3058\u3085\u3063\u3071\u30FC\u305B\u3093\u3068\u3073\u304D",
+      "Back": "10\uFF05\u5F15\u304D",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "5bc62ddf-102b-4063-b197-b2ca91f10d31",
+      "Front": "\u3055\u3051",
+      "Back": "\u9152",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
+}

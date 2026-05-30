@@ -22,5 +22,11 @@
     "DisplayOrder": 1,
     "IsVisible": true,
     "Subject": "Chapter 1"
+  },
+  {
+    "Id": "4c02b698-9ef5-4011-bb2e-55c101856981",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "Chapter 2 Writing Practice"
   }
 ]

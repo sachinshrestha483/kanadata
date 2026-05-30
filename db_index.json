@@ -2,13 +2,13 @@
   {
     "Id": "cb2a7c38-1967-4616-8c6f-543ce38bccda",
     "DisplayOrder": 0,
-    "IsVisible": true,
+    "IsVisible": false,
     "Subject": "Test"
   },
   {
     "Id": "3608b1b8-9c43-4d57-b58d-0eab7e37f78a",
     "DisplayOrder": 0,
-    "IsVisible": true,
+    "IsVisible": false,
     "Subject": "eijsk"
   },
   {
@@ -28,5 +28,11 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "Chapter 2 Writing Practice"
+  },
+  {
+    "Id": "9929bf58-f6c5-43f5-a016-39049482c8fe",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "Chapter 3 Wrting Test"
   }
 ]

@@ -269,14 +269,6 @@
       "Items": []
     },
     {
-      "Id": "67778745-d559-4481-8c1b-b31af423e507",
-      "Front": "\u3070\u3057\u3087",
-      "Back": "\u5834\u6240 (place)",
-      "IsVisible": true,
-      "IsBothSideCard": false,
-      "Items": []
-    },
-    {
       "Id": "1020b3d1-60af-40fc-8567-d6eadab210cf",
       "Front": "\u3078\u3044\u3058\u3064",
       "Back": "\u5E73\u65E5 (weekday)",

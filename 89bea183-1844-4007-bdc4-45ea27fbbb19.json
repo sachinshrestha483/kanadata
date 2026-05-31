@@ -1,0 +1,304 @@
+{
+  "Id": "89bea183-1844-4007-bdc4-45ea27fbbb19",
+  "Title": "Chapter 3 Reading Practice",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "f42131d6-df9a-49b7-9b55-0308d4694cf4",
+      "Front": "\u6708",
+      "Back": "\u3064\u304D (moon)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d2c916ea-fc0c-4b5a-8254-4d0fd006e80c",
+      "Front": "\u6708\u66DC\u65E5",
+      "Back": "\u3052\u3064\u3088\u3046\u3073 (Monday)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "5619c188-1ab7-41aa-bdfc-099eed394d63",
+      "Front": "\u4E00\u6708",
+      "Back": "\u3044\u3061\u304C\u3064 (January)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "92e9db2f-c527-48ef-8778-ceb92f021435",
+      "Front": "\u706B",
+      "Back": "\u3072 (fire)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "bc850418-95be-46ec-8c0b-87a64f164203",
+      "Front": "\u706B\u66DC\u65E5",
+      "Back": "\u304B\u3088\u3046\u3073 (Tuesday)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "03a15e39-213c-4e70-9bc0-c4154fa62318",
+      "Front": "\u6C34",
+      "Back": "\u307F\u305A (water)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "999c2e28-cb46-468f-92b0-e4629ac05672",
+      "Front": "\u6C34\u66DC\u65E5",
+      "Back": "\u3059\u3044\u3088\u3046\u3073 (Wednesday)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f71e398f-26a8-4456-adaa-5a70c3c8c2a7",
+      "Front": "\u6728",
+      "Back": "\u304D (tree)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6fb5503a-5472-4d89-9737-a0b8d9b6d5f3",
+      "Front": "\u6728\u66DC\u65E5",
+      "Back": "\u3082\u304F\u3088\u3046\u3073 (Thursday)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "12ef0c2e-f187-47e2-800d-074d6e99843d",
+      "Front": "\u91D1",
+      "Back": "\u304B\u306D (money / metal)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6445a9bc-1406-4424-9000-9a7398f299c1",
+      "Front": "\u91D1\u66DC\u65E5",
+      "Back": "\u304D\u3093\u3088\u3046\u3073 (Friday)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "34be83f9-6ec3-4903-82ff-f71609592ad2",
+      "Front": "\u304A\u91D1",
+      "Back": "\u304A\u304B\u306D (money)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "5aab93dd-7ea8-4df9-9729-9b82e445554f",
+      "Front": "\u571F",
+      "Back": "\u3064\u3061 (soil / earth)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "75207c6a-d280-4862-8ed6-f2068e30a91a",
+      "Front": "\u571F\u66DC\u65E5",
+      "Back": "\u3069\u3088\u3046\u3073 (Saturday)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "796c1c80-2fd6-4758-9f5a-43254a6d080f",
+      "Front": "\u66DC",
+      "Back": "\u3088\u3046 (day of week)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8e7819b0-4792-4d36-8671-bb08d7e816f6",
+      "Front": "\u65E5\u66DC\u65E5",
+      "Back": "\u306B\u3061\u3088\u3046\u3073 (Sunday)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ae78820c-917d-4b35-9d30-f4f6d07d54c7",
+      "Front": "\u4F55",
+      "Back": "\u306A\u306B (what)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "278ff2d5-d565-49fa-8bf8-8c4547d138d0",
+      "Front": "\u4F55\u65E5",
+      "Back": "\u306A\u3093\u306B\u3061 (what day / which date)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "885524da-5161-46d5-ae6b-23dbdba7c17f",
+      "Front": "\u5E74",
+      "Back": "\u3068\u3057 (year)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8a51009f-1945-4052-9ccd-b4e01305aa42",
+      "Front": "\u4ECA\u5E74",
+      "Back": "\u3053\u3068\u3057 (this year)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7ca082b2-0d13-450b-99ff-88f430806242",
+      "Front": "\u53BB\u5E74",
+      "Back": "\u304D\u3087\u306D\u3093 (last year)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7eef5f74-8641-4a00-ba80-2be65d150d7f",
+      "Front": "\u6765\u5E74",
+      "Back": "\u3089\u3044\u306D\u3093 (next year)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8f37589f-ac4b-4537-899c-12cd543008fc",
+      "Front": "\u6642",
+      "Back": "\u3068\u304D (time)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1663835e-4fb0-402e-af01-978525f488e3",
+      "Front": "1\u6642",
+      "Back": "\u3044\u3061\u3058 (1 o\u2019clock)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4879f0b9-2786-49e2-94ea-5881c2c43fba",
+      "Front": "\u6642\u9593",
+      "Back": "\u3058\u304B\u3093 (time duration)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "cd35c7ec-9273-46b7-af5a-7a845449b125",
+      "Front": "\u9593",
+      "Back": "\u3042\u3044\u3060 (between)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9c19f811-6d2e-456b-9863-13ee33c6f562",
+      "Front": "\u4EBA\u9593",
+      "Back": "\u306B\u3093\u3052\u3093 (human)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "cd225503-9c98-487e-b4eb-2eee58aecc92",
+      "Front": "5\u5206",
+      "Back": "\u3054\u3075\u3093 (5 minutes)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6abc17c2-7bdd-438b-ae77-d2f8a48fe0dc",
+      "Front": "10\u5206",
+      "Back": "\u3058\u3085\u3063\u3077\u3093 (10 minutes)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "be1efcc7-b9ec-4ef8-8471-2b6b6d6c1ff1",
+      "Front": "\u5341\u5206",
+      "Back": "\u3058\u3085\u3046\u3076\u3093 (enough / sufficient)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "35f700ee-f696-4cad-b349-e06cb2110b95",
+      "Front": "\u5206\u304B\u308A\u307E\u3059",
+      "Back": "\u308F\u304B\u308A\u307E\u3059 (understand)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "778ba198-f629-464b-a803-c5e7bf05c2ce",
+      "Front": "\u5206\u3051\u307E\u3059",
+      "Back": "\u308F\u3051\u307E\u3059 (separate / divide)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ccd92d90-82ea-4090-9918-c7984c035e9e",
+      "Front": "\u5341\u5206",
+      "Back": "\u3058\u3085\u3046\u3076\u3093 (enough / sufficient)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3e362d0b-784c-42f8-9e12-025942db8e3d",
+      "Front": "\u96E8",
+      "Back": "\u3042\u3081 (rain)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e5b18468-8db1-4822-8124-5f7d2fe51e99",
+      "Front": "\u5834\u6240",
+      "Back": "\u3070\u3057\u3087 (place)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "82e53fc1-e1b7-4cc0-abd9-0b35953959fa",
+      "Front": "\u5E73\u65E5",
+      "Back": "\u3078\u3044\u3058\u3064 (weekday)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4efe98c9-d677-4c76-9cc4-a2a430c9441e",
+      "Front": "\u795D\u65E5",
+      "Back": "\u3057\u3085\u304F\u3058\u3064 (holiday)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
+}

@@ -46,5 +46,17 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "Chapter 4 Reading test"
+  },
+  {
+    "Id": "eb313596-30f4-4931-9692-900d9e243871",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "Chapter 4 Writing Test"
+  },
+  {
+    "Id": "20a97e57-209e-4ca4-804a-5b65ee97a2c3",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "Chapter 5 reading test"
   }
 ]

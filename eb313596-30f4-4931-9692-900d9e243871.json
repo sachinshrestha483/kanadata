@@ -1,0 +1,168 @@
+{
+  "Id": "eb313596-30f4-4931-9692-900d9e243871",
+  "Title": "Chapter 4 Writing Test",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "738331dc-4b63-4e74-b02e-65da8607d7ab",
+      "Front": "\u3068\u3046\u304D\u3087\u3046",
+      "Back": "\u6771\u4EAC (Tokyo)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "23c2ab74-3667-40b7-a74f-8114be13269f",
+      "Front": "\u3072\u304C\u3057",
+      "Back": "\u6771 (east)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d49ee6f9-0601-42e7-b277-1b160b0f35f4",
+      "Front": "\u304D\u3087\u3046",
+      "Back": "\u4EAC (capital)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "5e1d4e49-bee1-4344-8d96-7337415cf971",
+      "Front": "\u306A\u307E\u3048",
+      "Back": "\u540D\u524D (name)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2b9e0f84-6231-4b76-b6a0-ce2ebe5745e9",
+      "Front": "\u3086\u3046\u3081\u3044",
+      "Back": "\u6709\u540D (famous)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "148f446a-d4b2-44d0-b72d-eacfc5d79b90",
+      "Front": "\u307E\u3048",
+      "Back": "\u524D (front / before)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "cf170ed9-e265-404a-bb75-dc12b74fac90",
+      "Front": "\u3054\u305C\u3093",
+      "Back": "\u5348\u524D (AM / morning)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f4000aa5-e1cd-467a-8abb-fae278656550",
+      "Front": "\u304F\u306B",
+      "Back": "\u56FD (country)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "45beb88f-1882-490a-ab6d-76ee944afaf6",
+      "Front": "\u304C\u3044\u3053\u304F",
+      "Back": "\u5916\u56FD (foreign country)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a4078dfa-33e6-4acf-ae8a-d1d496775542",
+      "Front": "\u3061\u3085\u3046\u3054\u304F",
+      "Back": "\u4E2D\u56FD (China)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4764f63c-f6fb-4e6b-bafc-5db654c20fb6",
+      "Front": "\u304A\u3068\u3053",
+      "Back": "\u7537 (man)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "462e8998-39d1-4263-a44e-49ff6f1d6f7f",
+      "Front": "\u304A\u3068\u3053\u306E\u3072\u3068",
+      "Back": "\u7537\u306E\u4EBA (man)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b9b7c02b-b082-43f9-b3e1-188ddc73aaa7",
+      "Front": "\u3060\u3093\u305B\u3044",
+      "Back": "\u7537\u6027 (male)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "5be985cf-866b-420b-a845-0515af658772",
+      "Front": "\u304A\u3093\u306A",
+      "Back": "\u5973 (woman)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9beb2c8a-6d21-4e5e-89ee-72e32547f01f",
+      "Front": "\u304A\u3093\u306A\u306E\u3072\u3068",
+      "Back": "\u5973\u306E\u4EBA (woman)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "fdab2653-31f8-4d62-8815-de1b24dcdc12",
+      "Front": "\u3058\u3087\u305B\u3044",
+      "Back": "\u5973\u6027 (female)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b37d967d-8270-4dc2-8c6d-c209c094ce7f",
+      "Front": "\u304F",
+      "Back": "\u533A (ward / district)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "10ec635f-495a-41fb-9251-b8119e48817f",
+      "Front": "\u304F\u3084\u304F\u3057\u3087",
+      "Back": "\u533A\u5F79\u6240 (ward office)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6cb622d7-69a3-44d7-855f-4aa1f7322e38",
+      "Front": "\u3057",
+      "Back": "\u5E02 (city)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "379506fa-a29f-4f64-b6d3-3f35c34da974",
+      "Front": "\u3067\u3093\u308F",
+      "Back": "\u96FB\u8A71 (telephone)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
+}

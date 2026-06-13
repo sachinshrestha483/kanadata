@@ -3,5 +3,270 @@
   "Title": "Chapter 5 reading test",
   "DisplayOrder": 0,
   "IsVisible": true,
-  "Items": []
+  "Items": [
+    {
+      "Id": "fab44816-94d0-4ce5-83c6-e7ba56239862",
+      "Front": "\u305B\u3093",
+      "Back": "\u5148 (saki / previous / ahead)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d1e50c84-dd83-4901-b9a3-2ac43664596d",
+      "Front": "\u305B\u3093\u3052\u3064",
+      "Back": "\u5148\u6708 (last month)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1045ad6f-a78d-464d-a4a4-e4dcef0e58a3",
+      "Front": "\u305B\u3093\u305B\u3044",
+      "Back": "\u5148\u751F (teacher)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "04cf9842-28cd-4199-a2c9-5832d401c93c",
+      "Front": "\u305B\u3093\u3057\u3085\u3046",
+      "Back": "\u5148\u9031 (last week)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "480540cb-5dd8-4e6f-9620-89eee26a6fcc",
+      "Front": "\u3044\u3063\u3057\u3085\u3046\u304B\u3093",
+      "Back": "1\u9031\u9593 (one week)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "346c451c-283d-4f54-998e-1d7900051880",
+      "Front": "\u307E\u3044\u306B\u3061",
+      "Back": "\u6BCE\u65E5 (every day)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e6e94182-5746-4d5e-9242-e4325899e86d",
+      "Front": "\u307E\u3044\u3057\u3085\u3046",
+      "Back": "\u6BCE\u9031 (every week)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "586a11ca-437c-4a25-9da1-837b786c0b48",
+      "Front": "\u307E\u3044\u3064\u304D",
+      "Back": "\u6BCE\u6708 (every month)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "836d0c12-04b3-46f8-89ab-25c4c2bb4161",
+      "Front": "\u307E\u3044\u3068\u3057",
+      "Back": "\u6BCE\u5E74 (every year)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e43e4ebd-c166-4e03-8e7b-582d0e174930",
+      "Front": "\u3054\u305C\u3093",
+      "Back": "\u5348\u524D (AM / morning)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ff9d92fd-53aa-4025-99ad-a9607c7c79a0",
+      "Front": "\u3054\u3054",
+      "Back": "\u5348\u5F8C (PM / afternoon)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "13c5b4a7-dba9-41d7-8774-47ed29419189",
+      "Front": "\u3042\u3068",
+      "Back": "\u5F8C (after / later)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2327b170-ab65-49b5-bf1f-094369c673f3",
+      "Front": "\u3046\u3057\u308D",
+      "Back": "\u5F8C\u308D (behind)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f074a56a-9f82-4eb3-ad1e-1e22a55db796",
+      "Front": "\u307F\u307E\u3059",
+      "Back": "\u898B\u307E\u3059 (to see / watch)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "fb95efad-3db4-41dc-b343-f7c3cb3504b7",
+      "Front": "\u307F\u305B\u307E\u3059",
+      "Back": "\u898B\u305B\u307E\u3059 (to show)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8a0a97d3-dd25-4ff8-a00b-fe6cc61413be",
+      "Front": "\u3051\u3093\u304C\u304F",
+      "Back": "\u898B\u5B66 (study tour / observation)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3e6c101f-ac4c-49fa-8b1b-f2b27f0fa146",
+      "Front": "\u305F\u3079\u307E\u3059",
+      "Back": "\u98DF\u3079\u307E\u3059 (to eat)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "97c0e972-224f-4e4d-8736-eb29b31bda94",
+      "Front": "\u3057\u3087\u304F\u3058",
+      "Back": "\u98DF\u4E8B (meal)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6b3e9079-bf6a-4f2c-922d-ed0e61010aca",
+      "Front": "\u305F\u3079\u3082\u306E",
+      "Back": "\u98DF\u3079\u7269 (food)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "296478d2-fab1-4f00-8d2a-dddc0733d495",
+      "Front": "\u306E\u307F\u307E\u3059",
+      "Back": "\u98F2\u307F\u307E\u3059 (to drink)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9fa2f578-2ff5-4bde-bdb5-c65f62665230",
+      "Front": "\u306E\u307F\u3082\u306E",
+      "Back": "\u98F2\u307F\u7269 (drink / beverage)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1fb519b7-c199-49bf-a064-ddaff165a694",
+      "Front": "\u304B\u3044\u307E\u3059",
+      "Back": "\u8CB7\u3044\u307E\u3059 (to buy)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "27636b8b-c263-4c63-89cf-197371d45877",
+      "Front": "\u304B\u3044\u3082\u306E",
+      "Back": "\u8CB7\u3044\u7269 (shopping)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d9c10629-c42e-49f0-9ada-40893d9e9c6f",
+      "Front": "\u3082\u306E",
+      "Back": "\u7269 (thing / object)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ff8d0aa0-dd8e-4f1c-a6ea-ff36d5a8db4b",
+      "Front": "\u3069\u3046\u3076\u3064",
+      "Back": "\u52D5\u7269 (animal)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4528c4ed-0d46-4229-92c1-e828ea6589f2",
+      "Front": "\u306B\u3082\u3064",
+      "Back": "\u8377\u7269 (luggage / baggage)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8dcf6237-86a7-4359-9207-b46dc41bc943",
+      "Front": "\u3044\u304D\u307E\u3059",
+      "Back": "\u884C\u304D\u307E\u3059 (to go)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "48f59b0e-ed30-4f5e-ba76-054a0db9d82c",
+      "Front": "\u308A\u3087\u3053\u3046",
+      "Back": "\u65C5\u884C (trip / travel)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c7f04a9a-3aa8-4b6c-925d-37753d6c0fde",
+      "Front": "\u3084\u3059\u307F\u307E\u3059",
+      "Back": "\u4F11\u307F\u307E\u3059 (to rest / take a day off)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2a232766-3b2c-4170-a4b1-b7d298ba125a",
+      "Front": "\u3084\u3059\u307F",
+      "Back": "\u4F11\u307F (holiday / break)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f85e2fb2-9dbf-4234-a2fa-ce8526c18792",
+      "Front": "\u305F\u3079\u307B\u3046\u3060\u3044",
+      "Back": "\u98DF\u3079\u653E\u984C (all-you-can-eat)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "01adddfc-17fb-4481-841a-49dde02e7234",
+      "Front": "\u3048\u3044\u304E\u3087\u3046",
+      "Back": "\u55B6\u696D (business / open for business)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "600c8f8a-4efb-4695-bf7e-a9e83ce43d9f",
+      "Front": "\u3068\u307B",
+      "Back": "\u5F92\u6B69 (on foot / walking)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
 }

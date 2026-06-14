@@ -1,0 +1,528 @@
+{
+  "Id": "4bd367af-ed6f-4347-b412-0f5d66452261",
+  "Title": "Ch 15  Vocab",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "c4ec4470-5b17-4b99-bfc8-c5a5bae6647a",
+      "Front": "\u3057\u3085\u3046\u304B\u3093",
+      "Back": "habit / custom",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ecc4e793-8a93-4363-ba87-c719e07f470c",
+      "Front": "\u30D0\u30B9\u30BF\u30D6",
+      "Back": "bathtub",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9a61b3f6-6f08-48c1-918f-646149046a2f",
+      "Front": "\u306F\u306A\u3057",
+      "Back": "talk / conversation",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d901ed45-eb32-4ddb-9398-c2e290054a17",
+      "Front": "\u30DB\u30B9\u30C8\u30D5\u30A1\u30DF\u30EA\u30FC",
+      "Back": "host family",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "626ee7ee-3551-41ca-8c32-824ba0b09435",
+      "Front": "\u307F\u3093\u306A",
+      "Back": "everyone",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "20a51507-7165-4482-91fa-5e5efd45c051",
+      "Front": "\u306A\u304F\u306A\u308A\u307E\u3059",
+      "Back": "disappear / run out",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1644f2cf-6921-4c2e-9b9b-347a53c8309e",
+      "Front": "\u308F\u3089\u3044\u307E\u3059",
+      "Back": "laugh",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ee403bf0-ee02-447a-96c9-b7e270d3f378",
+      "Front": "\u3073\u3063\u304F\u308A\u3057\u307E\u3059",
+      "Back": "be surprised",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "26a41a40-6e64-40e7-85fc-4e059ae1d530",
+      "Front": "\u304A\u306A\u3058",
+      "Back": "same",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c1dac6be-1339-42bd-afb3-1d10d8504832",
+      "Front": "\u3046\u3069\u3093",
+      "Back": "udon noodles",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "820ce2cc-cbe0-4215-8b67-5b717a0cd704",
+      "Front": "\u305D\u3070",
+      "Back": "soba noodles",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "cc2bd359-d301-4567-8860-74b67100e61f",
+      "Front": "\u30AB\u30A4\u30ED",
+      "Back": "pocket warmer",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "15f0b752-dc1c-4a6e-bbf7-3a3c3733d6c0",
+      "Front": "\u3053\u305F\u3064",
+      "Back": "heated table",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "82c52e4d-e70f-4c38-9298-f68892130908",
+      "Front": "\u3058",
+      "Back": "letter / character",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e7bc91d7-04d5-42b9-8728-39cd69ff7877",
+      "Front": "\u3057\u3087\u3063\u3051\u3093",
+      "Back": "meal ticket / food coupon",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "86c05e91-0099-4b70-8fb5-e423d4a9fecb",
+      "Front": "\u304A\u3064\u308A",
+      "Back": "change money",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "0dba9a59-4885-4d8d-96fb-11a2f0ef69e6",
+      "Front": "\u3067\u3093\u304D",
+      "Back": "electricity / electric",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "eaa2f0ea-2c83-42f0-88f0-cd387b45fd45",
+      "Front": "\u30C9\u30A2",
+      "Back": "door",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "00487b8f-f0fc-47f5-918e-2bb80d969be5",
+      "Front": "\u3068\u3046\u304C\u3089\u3057",
+      "Back": "red pepper",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7b8655c0-a201-41e0-88a5-3b701a9f4bf4",
+      "Front": "\u30D1\u30B9\u30EF\u30FC\u30C9",
+      "Back": "password",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "abcf2296-eb96-444c-a614-3ae066b0e1a3",
+      "Front": "\u3075\u3046\u308A\u3093",
+      "Back": "wind chime",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "aca5f7dc-4861-4dde-8c59-8c5e189e8b0d",
+      "Front": "\u3075\u3068\u3093",
+      "Back": "bedding / futon",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e3a295fa-2a3f-4643-8793-0392c58d82fa",
+      "Front": "\u30DD\u30B1\u30C3\u30C8",
+      "Back": "pocket",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "09af1ae8-1a32-4a95-b69e-0f0faff2b600",
+      "Front": "\u30DC\u30BF\u30F3",
+      "Back": "button",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "36a766c8-0d86-4834-b183-9faa9316233b",
+      "Front": "\u304A\u3086",
+      "Back": "hot water",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f874dc41-defb-418f-8d4f-d389d31580bb",
+      "Front": "\u3086\u305F\u3093\u307D",
+      "Back": "hot-water bottle",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "5984c326-d4da-481e-b95d-b4f594db15c3",
+      "Front": "\u30EC\u30D0\u30FC",
+      "Back": "lever",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "bfccc30d-8c7e-4f4f-84f7-9e1caa179518",
+      "Front": "Wi-Fi",
+      "Back": "Wi-Fi",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6f982783-7d91-4359-addf-6a446e52faef",
+      "Front": "\u3042\u304D\u307E\u3059",
+      "Back": "open",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d353bf23-58d5-4e76-8fad-d0731f690ef1",
+      "Front": "\u304B\u3056\u3057\u307E\u3059",
+      "Back": "hold over / cover",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "0d076a3b-4323-44a9-b085-838bdc613895",
+      "Front": "\u3064\u304D\u307E\u3059",
+      "Back": "turn on",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c979425b-2de5-43d3-b750-c43a3b1439dd",
+      "Front": "\u307E\u304C\u308A\u307E\u3059",
+      "Back": "turn",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "270bcd70-aab3-4b28-99cd-b849696a7a2b",
+      "Front": "\u3067\u307E\u3059",
+      "Back": "come out / leave",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "eebdb19b-4fdf-4b3d-9a90-e8ec087e2421",
+      "Front": "\u3042\u308C",
+      "Back": "huh / what\u2019s this",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1a17852b-c72a-4a64-aed2-e8ca2bbeba63",
+      "Front": "\u3044\u305F\u3060\u304D\u307E\u3059",
+      "Back": "let\u2019s eat",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "da0dfcdd-a21a-4f45-93d8-219418625b45",
+      "Front": "\u304A\u306A\u304B\u304C\u3044\u3063\u3071\u3044\u3067\u3059",
+      "Back": "I\u2019m full",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "28998507-0587-4ff7-9728-634b5999a893",
+      "Front": "\u3054\u3061\u305D\u3046\u3055\u307E\u3067\u3057\u305F",
+      "Back": "thank you for the meal",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "23982cca-8f97-45aa-891a-58b3ae7820d6",
+      "Front": "\u3052\u3093\u304B\u3093",
+      "Back": "entrance",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "caaf73f8-3e0e-414d-a5a5-c76712b64660",
+      "Front": "\u30B7\u30FC\u30C8\u30D9\u30EB\u30C8",
+      "Back": "seatbelt",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "346d3bff-07e9-442f-885f-d994f72ce8b3",
+      "Front": "\u305B\u3044\u3075\u304F",
+      "Back": "uniform",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c30578d9-2947-47f0-8a31-cad83357e3b2",
+      "Front": "\u30D0\u30A4\u30AF",
+      "Back": "motorcycle / scooter",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "48f4029f-ab3a-4b14-a545-ba2239fe88bf",
+      "Front": "\u30D8\u30EB\u30E1\u30C3\u30C8",
+      "Back": "helmet",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c85d3440-5116-4a1c-88a9-a5cb2084bc02",
+      "Front": "\u30D1\u30B9\u30DD\u30FC\u30C8",
+      "Back": "passport",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a2035b47-54a9-4bdf-b0ff-c56cfa157687",
+      "Front": "\u304C\u304F\u305B\u3044\u3057\u3087\u3046",
+      "Back": "student ID",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "899bae54-e25c-4c49-8a14-6e01ad97ba4b",
+      "Front": "\u308A\u3087\u3046\u304D\u3093",
+      "Back": "fee / fare",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3ad2b070-0666-4926-bb12-d17329b85397",
+      "Front": "\u306B\u3085\u3046\u3058\u3087\u3046\u308A\u3087\u3046",
+      "Back": "admission fee",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f2d1ac75-115c-4dba-87a2-a71efa954d8a",
+      "Front": "\u30B3\u30FC\u30C8",
+      "Back": "court",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f0cd446e-ff9e-4877-a98b-184833ae936a",
+      "Front": "\u30D0\u30B9\u30B1\u30C3\u30C8\u30B3\u30FC\u30C8",
+      "Back": "basketball court",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b0b00164-b32a-45c0-aac9-f686c177ea0b",
+      "Front": "\u3044\u304B(suffix)",
+      "Back": "less than / under",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3a9077f9-998a-4f3a-902f-7e771adfb9be",
+      "Front": "\u306A\u3089\u3073\u307E\u3059",
+      "Back": "line up",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a04a6531-e330-4d75-8e37-486dbc93df28",
+      "Front": "\u3068\u3081\u307E\u3059",
+      "Back": "stop",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "06dd7589-f6ca-4bbe-9a59-eee4df7b782f",
+      "Front": "\u308F\u3051\u307E\u3059",
+      "Back": "divide",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ee21fdc0-8cd2-47d8-9fb0-a6fc3d6f3712",
+      "Front": "\u304D\u3061\u3093\u3068",
+      "Back": "properly / neatly",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b98e9cdb-6c32-4a7b-8a95-15b51ee21ad6",
+      "Front": "\u305D\u3046\u306A\u3093\u3067\u3059\u304B",
+      "Back": "is that so",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d6227c3a-cd71-4d30-8543-c4a2cf9f2929",
+      "Front": "\u307B\u3089",
+      "Back": "look to get some ones attention lik look here",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "33a6f1e5-80aa-4a40-8a56-c097ad5bc992",
+      "Front": "\u3044\u306A\u304B",
+      "Back": "countryside",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "97f5ec53-284e-4418-956f-ee154ceea88a",
+      "Front": "\u3068\u304B\u3044",
+      "Back": "city",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "236af80c-d051-4687-81e2-c7ad8b1724d4",
+      "Front": "\u304F\u3046\u304D",
+      "Back": "air",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4484c527-76b2-4d90-bdcb-30a7eaf4257b",
+      "Front": "\u3053\u3046\u3064\u3046",
+      "Back": "traffic",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d747efbe-044f-443d-8394-dacba1279158",
+      "Front": "\u3058\u304D\u3085\u3046",
+      "Back": "hourly wage",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c6ac1c60-cb39-4a59-a2b2-a98cb0bfa199",
+      "Front": "\u3058\u3086\u3046",
+      "Back": "freedom",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2fdb38f3-19ec-4bbd-a252-c76d9df41f16",
+      "Front": "\u30C7\u30B6\u30A4\u30F3",
+      "Back": "design",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e5847a2f-1fda-4fb9-a9f2-dfac1ebc8c29",
+      "Front": "\u3067\u3093\u304D\u305B\u3044\u3072\u3093",
+      "Back": "electrical appliance",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "cf51ef4c-296c-4135-b76d-727287ceede4",
+      "Front": "\u3070\u3093\u3050\u307F",
+      "Back": "TV / radio program",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e0c75a59-f262-4969-90cb-ca89a82655c8",
+      "Front": "\u30D5\u30A1\u30B9\u30C8\u30D5\u30FC\u30C9",
+      "Back": "fast food",
+      "IsVisible": false,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
+}

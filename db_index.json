@@ -64,5 +64,11 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "Chapter 5 reading test"
+  },
+  {
+    "Id": "4bd367af-ed6f-4347-b412-0f5d66452261",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "Ch 7 Vocab"
   }
 ]

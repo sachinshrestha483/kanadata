@@ -1,0 +1,408 @@
+{
+  "Id": "93f1297d-5c02-45f2-9cd7-7cc0e2b51572",
+  "Title": "Chapter 6 Reading Test",
+  "DisplayOrder": 0,
+  "IsVisible": false,
+  "Items": [
+    {
+      "Id": "99a64a47-70a6-458b-aef6-9a5e61a828bc",
+      "Front": "\u4ECA",
+      "Back": "\u3044\u307E (now)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ed5dbf80-f318-4fe6-b644-608918534ab6",
+      "Front": "\u4ECA\u9031",
+      "Back": "\u3053\u3093\u3057\u3085\u3046 (this week)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "cfad9a6b-8ccb-4ade-bdfd-cf5a2fe16cf4",
+      "Front": "\u4ECA\u6708",
+      "Back": "\u3053\u3093\u3052\u3064 (this month)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "758a65c1-fbf4-4210-82a7-f4532ef379ed",
+      "Front": "\u4ECA\u65E5",
+      "Back": "\u304D\u3087\u3046 (today)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "abdcc2aa-4445-4fe1-a57f-7eed676e92af",
+      "Front": "\u4ECA\u5E74",
+      "Back": "\u3053\u3068\u3057 (this year)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1391a469-ff41-4d4c-819c-15d9c60b00c3",
+      "Front": "\u6765",
+      "Back": "\u304F\u308B (come)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f653baee-a4f5-4348-814e-94b692f61014",
+      "Front": "\u6765\u306A\u3044",
+      "Back": "\u3053\u306A\u3044 (do not come / won\u0027t come)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "64ae901c-c726-45d8-aab2-e28a46c2650d",
+      "Front": "\u6765\u307E\u3059",
+      "Back": "\u304D\u307E\u3059 (to come)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a2d577dc-7b21-4ab4-8fec-e2ee946a25b8",
+      "Front": "\u6765\u9031",
+      "Back": "\u3089\u3044\u3057\u3085\u3046 (next week)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4e205aa7-2ffa-4c37-8d22-998b2aa7070f",
+      "Front": "\u6765\u6708",
+      "Back": "\u3089\u3044\u3052\u3064 (next month)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "bc317827-afd5-4820-88a9-e241b30954d7",
+      "Front": "\u6765\u5E74",
+      "Back": "\u3089\u3044\u306D\u3093 (next year)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "0cd8a50a-51fb-4a95-8075-8d8aab8f3f96",
+      "Front": "\u5E30",
+      "Back": "\u304B\u3048\u308B (return)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a355d720-b141-4f6c-84d3-86ce9a95c37b",
+      "Front": "\u65E5\u5E30\u308A",
+      "Back": "\u3072\u304C\u3048\u308A (day trip)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "83e33a62-1de1-4e7d-8be7-7fe2401ab009",
+      "Front": "\u5E30\u308A\u307E\u3059",
+      "Back": "\u304B\u3048\u308A\u307E\u3059 (to return / go home)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d2641700-ef27-493e-a9cb-1eb7026ab1c1",
+      "Front": "\u4F1A",
+      "Back": "\u3042\u3046 (meet)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9369c541-a918-4d15-a736-1b633c336d96",
+      "Front": "\u4F1A\u3044\u307E\u3059",
+      "Back": "\u3042\u3044\u307E\u3059 (to meet)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3da3dd94-e74d-4431-b5d0-8f362b0fb973",
+      "Front": "\u4F1A\u793E",
+      "Back": "\u304B\u3044\u3057\u3083 (company)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "49c5f031-b898-4bbc-bdb1-acb6c7b4db99",
+      "Front": "\u4F1A\u8A71",
+      "Back": "\u304B\u3044\u308F (conversation)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "183340e5-490e-4232-a3e6-f1c5f40238ff",
+      "Front": "\u98F2\u307F\u4F1A",
+      "Back": "\u306E\u307F\u304B\u3044 (drinking party)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e6ed8bed-d452-47ac-84ca-ba99242ef301",
+      "Front": "\u793E\u4F1A",
+      "Back": "\u3057\u3083\u304B\u3044 (society)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "079f16b9-b2c8-41f0-a699-571b3f7b17fa",
+      "Front": "\u805E",
+      "Back": "\u304D\u304F (listen / ask)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "baad44a0-1afb-4f4d-b742-26a5e505459e",
+      "Front": "\u805E\u304D\u307E\u3059",
+      "Back": "\u304D\u304D\u307E\u3059 (to listen / ask)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ca0d2adb-988f-411e-a863-f09dda15789e",
+      "Front": "\u805E\u3053\u3048\u307E\u3059",
+      "Back": "\u304D\u3053\u3048\u307E\u3059 (can hear)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "37125a60-1894-4c7f-8338-d6cef5a2ed9f",
+      "Front": "\u65B0\u805E",
+      "Back": "\u3057\u3093\u3076\u3093 (newspaper)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "441803f5-6ada-482a-8c84-fcc2e46fd52e",
+      "Front": "\u8AAD",
+      "Back": "\u3088\u3080 (read)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9da5768b-c50e-44e0-887e-6041c4325016",
+      "Front": "\u8AAD\u307F\u307E\u3059",
+      "Back": "\u3088\u307F\u307E\u3059 (to read)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "806a2b35-6f21-4aff-8fec-55ec5d5fdc30",
+      "Front": "\u66F8",
+      "Back": "\u304B\u304F (write)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "64753c66-1d27-4e09-95e7-a4f67fbc2629",
+      "Front": "\u66F8\u304D\u307E\u3059",
+      "Back": "\u304B\u304D\u307E\u3059 (to write)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a46a5dc4-979b-4a91-955c-7f1ca976fc38",
+      "Front": "\u8F9E\u66F8",
+      "Back": "\u3058\u3057\u3087 (dictionary)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c6374a5d-6c2f-4cea-b1be-0d563246f089",
+      "Front": "\u56F3\u66F8\u9928",
+      "Back": "\u3068\u3057\u3087\u304B\u3093 (library)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "46b840f5-1660-40c6-bd74-c1974f30a3b4",
+      "Front": "\u8A71\u3059",
+      "Back": "\u306F\u306A\u3059 (to speak)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b3ff4df3-a5dc-4aad-a84a-95b032348f6e",
+      "Front": "\u8A71\u3057\u307E\u3059",
+      "Back": "\u306F\u306A\u3057\u307E\u3059 (to speak)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "5e488432-5df6-42f7-ba61-07b4de109eae",
+      "Front": "\u8A71",
+      "Back": "\u306F\u306A\u3057 (story / talk)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2bb8a98f-a98f-4fbb-a6af-7fb8a0423874",
+      "Front": "\u4F1A\u8A71",
+      "Back": "\u304B\u3044\u308F (conversation)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "de527340-cc6d-4325-b9cb-af0f32998884",
+      "Front": "\u96FB\u8A71",
+      "Back": "\u3067\u3093\u308F (telephone)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "20f212c5-ac6d-47f3-bb71-aacfa6575fa1",
+      "Front": "\u65B0\u3057\u3044",
+      "Back": "\u3042\u305F\u3089\u3057\u3044 (new)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4395da65-5268-41ba-92f5-8c8ca3d03725",
+      "Front": "\u65B0\u805E",
+      "Back": "\u3057\u3093\u3076\u3093 (newspaper)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "693e9416-d169-4b61-a5c1-82d043db55f2",
+      "Front": "\u53D7\u3051\u308B",
+      "Back": "\u3046\u3051\u308B (receive)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7081c12e-4a3a-4bbb-9008-9233ffcfce9e",
+      "Front": "\u53D7\u4ED8",
+      "Back": "\u3046\u3051\u3064\u3051 (reception)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d9ba313b-c918-49d7-a015-a269c9efa9e7",
+      "Front": "\u4ED8\u3051\u308B",
+      "Back": "\u3064\u3051\u308B (attach)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "cc53c8b7-35eb-4b17-9a66-b6b1620d71f5",
+      "Front": "\u53D7\u4ED8",
+      "Back": "\u3046\u3051\u3064\u3051 (reception)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9cfc1b70-93dd-4b5d-b200-c7b3a579ae1b",
+      "Front": "\u8A00\u3046",
+      "Back": "\u3044\u3046 (to say)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c3ea26fd-9099-41a3-a327-4aef1c2a52e9",
+      "Front": "\u8A00\u3044\u307E\u3059",
+      "Back": "\u3044\u3044\u307E\u3059 (to say)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8ac0652b-7a2e-4003-a49c-9fd828286483",
+      "Front": "\u8C9D",
+      "Back": "\u304B\u3044 (shellfish / shell)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9384e21a-c8f1-4884-b431-b24a08d97b26",
+      "Front": "\u7530",
+      "Back": "\u305F (rice field)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "45916143-5c1b-4948-9a55-78c19c154370",
+      "Front": "\u7530\u3093\u307C",
+      "Back": "\u305F\u3093\u307C (rice field)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "dc193e09-07d0-46e1-b744-a8b3287d70d8",
+      "Front": "\u7530\u4E2D",
+      "Back": "\u305F\u306A\u304B (Tanaka)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "31d3e485-f84e-439a-a9e6-3db04aa7a677",
+      "Front": "\u5C71\u7530",
+      "Back": "\u3084\u307E\u3060 (Yamada)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8c3c8b70-59b0-4338-933e-67c912ead42c",
+      "Front": "\u529B",
+      "Back": "\u3061\u304B\u3089 (strength / power)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "076a7ed7-4067-41eb-8cd8-5b7e70acb43f",
+      "Front": "\u9580",
+      "Back": "\u3082\u3093 (gate)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
+}

@@ -74,13 +74,13 @@
   {
     "Id": "f3325a82-c65b-4ab9-9acb-f872422cfcce",
     "DisplayOrder": 0,
-    "IsVisible": false,
-    "Subject": "Chapter 5 Reading test"
+    "IsVisible": true,
+    "Subject": "Chapter 5 Writing Test"
   },
   {
-    "Id": "97525521-66cb-433f-a23b-5e19a13d28ae",
+    "Id": "93f1297d-5c02-45f2-9cd7-7cc0e2b51572",
     "DisplayOrder": 0,
-    "IsVisible": false,
-    "Subject": "Ch 6 Reading Test"
+    "IsVisible": true,
+    "Subject": "Chapter 6 Reading Test"
   }
 ]

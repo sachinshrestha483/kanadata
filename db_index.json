@@ -70,5 +70,11 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "Ch 14 Vocab"
+  },
+  {
+    "Id": "f3325a82-c65b-4ab9-9acb-f872422cfcce",
+    "DisplayOrder": 0,
+    "IsVisible": false,
+    "Subject": "Chapter 5 Reading test"
   }
 ]

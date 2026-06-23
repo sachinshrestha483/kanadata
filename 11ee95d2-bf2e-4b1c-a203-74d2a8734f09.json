@@ -1,0 +1,288 @@
+{
+  "Id": "11ee95d2-bf2e-4b1c-a203-74d2a8734f09",
+  "Title": "Ch 7 Reading Test",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "7c2f8862-1b31-42f3-b8ce-17c590464ca2",
+      "Front": "\u8A00",
+      "Back": "\u3044\u3046 (to say)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "37ad14d2-97d3-4a9c-b502-db2192f3e678",
+      "Front": "\u8A00\u3044\u307E\u3059",
+      "Back": "\u3044\u3044\u307E\u3059 (to say)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f1480492-0ca9-4766-8103-cbc2de2b396d",
+      "Front": "\u8C9D",
+      "Back": "\u304B\u3044 (shellfish / shell)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "828c93af-7fe4-4fdd-b959-1ca241e47748",
+      "Front": "\u7530",
+      "Back": "\u305F (rice field)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "750d184e-670c-4d59-8767-e687e85bdd34",
+      "Front": "\u7530\u3093\u307C",
+      "Back": "\u305F\u3093\u307C (rice field)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9039d812-fbfe-449c-a591-589b9e94293b",
+      "Front": "\u529B",
+      "Back": "\u3061\u304B\u3089 (strength / power)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "76bc0457-c3dd-44ad-98f4-cc8ad28fed9a",
+      "Front": "\u9580",
+      "Back": "\u304B\u3069 (gate)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c0274cbb-041d-4d20-b698-a74c3a14c388",
+      "Front": "\u8089",
+      "Back": "\u306B\u304F (meat)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "0e398537-f23e-4c58-88e0-d0e051e31619",
+      "Front": "\u725B\u8089",
+      "Back": "\u304E\u3085\u3046\u306B\u304F (beef)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e99fae0c-3d63-46b0-9e81-7a2af79c7411",
+      "Front": "\u8C5A\u8089",
+      "Back": "\u3076\u305F\u306B\u304F (pork)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "26be141c-858d-4398-84d9-d9ec72518f5f",
+      "Front": "\u9D8F\u8089",
+      "Back": "\u3068\u308A\u306B\u304F (chicken meat)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "940bca56-f501-445f-9df6-6b2c2df6941e",
+      "Front": "\u6599\u7406",
+      "Back": "\u308A\u3087\u3046\u308A (cooking / cuisine)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3a058b91-7875-411c-a223-428ca96307a6",
+      "Front": "\u7406",
+      "Back": "\u308A (reason / logic)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "31c413f5-58c7-4943-8556-6a942c57ab77",
+      "Front": "\u91CE",
+      "Back": "\u3084 (field / plain)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "08fb453b-5d00-4ad9-9d2c-810e87f1539c",
+      "Front": "\u91CE\u83DC",
+      "Back": "\u3084\u3055\u3044 (vegetable)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "bce86bdd-b5eb-4122-bed0-fec51104ea3c",
+      "Front": "\u534A",
+      "Back": "\u306A\u304B\u3070 (half)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6005a5ff-6f0c-42fd-9c92-70289e46039f",
+      "Front": "1\u6642\u534A",
+      "Back": "\u3044\u3061\u3058\u306F\u3093 (1:30)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "21cd7a21-d399-402a-b985-32a182e1d7bc",
+      "Front": "\u534A\u5206",
+      "Back": "\u306F\u3093\u3076\u3093 (half)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "aa7d5a7c-ed66-48d3-80cd-486440d9d4ba",
+      "Front": "\u534A\u984D",
+      "Back": "\u306F\u3093\u304C\u304F (half price)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8800e8cc-6690-4571-a8ef-13ec58f851e4",
+      "Front": "\u5927",
+      "Back": "\u304A\u304A\u304D\u3044 (big)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "775c67ab-a104-4f84-8299-4a8d81e1d3e5",
+      "Front": "\u5927\u5B66",
+      "Back": "\u3060\u3044\u304C\u304F (university)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "81207e2b-481a-4216-9e5f-6770537ed2f6",
+      "Front": "\u5927\u304D\u3044",
+      "Back": "\u304A\u304A\u304D\u3044 (big)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "87503b82-adf4-4eac-80ab-84f9a6248b95",
+      "Front": "\u5927\u4EBA",
+      "Back": "\u304A\u3068\u306A (adult)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "32dadb9e-4a24-4a2f-877d-b18e79d0c76d",
+      "Front": "\u5927\u4E08\u592B",
+      "Back": "\u3060\u3044\u3058\u3087\u3046\u3076 (okay / all right)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b116d978-4722-44c6-a92b-f134d6683bdf",
+      "Front": "\u5C0F",
+      "Back": "\u3061\u3044\u3055\u3044 (small)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "44eef5c1-ef5b-425f-b7e5-1b8612d12c36",
+      "Front": "\u5C0F\u5B66\u6821",
+      "Back": "\u3057\u3087\u3046\u304C\u3063\u3053\u3046 (elementary school)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "5fe3a459-1a3d-4c96-bbe7-fdc42c51d8da",
+      "Front": "\u5C0F\u3055\u3044",
+      "Back": "\u3061\u3044\u3055\u3044 (small)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2aa997ae-7310-4991-a805-37c77e5cdf9a",
+      "Front": "\u5C0F\u9CE5",
+      "Back": "\u3053\u3068\u308A (small bird)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a6888b94-a527-48b1-81ca-c2e55346e027",
+      "Front": "\u9B5A",
+      "Back": "\u3055\u304B\u306A (fish)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "be99052e-c5a9-4ec3-bd58-333117912d34",
+      "Front": "\u91CE\u83DC",
+      "Back": "\u3084\u3055\u3044 (vegetable)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8e8f4c59-3799-4dc9-9806-b44e2fc05dea",
+      "Front": "\u3054\u98EF",
+      "Back": "\u3054\u306F\u3093 (cooked rice / meal)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a48cc07a-b518-4f91-9807-ebd39e4bc8f5",
+      "Front": "\u9152",
+      "Back": "\u3055\u3051 (alcohol / sake)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "66057ba7-6402-44f3-8b66-902f9288dd96",
+      "Front": "\u30AB\u30C4\u4E3C",
+      "Back": "\u304B\u3064\u3069\u3093 (pork cutlet rice bowl)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1d96f9fe-a090-405b-b73a-90dbdcf04dcb",
+      "Front": "\u534A\u984D",
+      "Back": "\u306F\u3093\u304C\u304F (half price)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "263b3fc7-e145-4727-a5fb-833297822d7b",
+      "Front": "\u5B9A\u98DF",
+      "Back": "\u3066\u3044\u3057\u3087\u304F (set meal)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
+}

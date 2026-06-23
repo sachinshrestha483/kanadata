@@ -82,5 +82,11 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "Chapter 6 Reading Test"
+  },
+  {
+    "Id": "11ee95d2-bf2e-4b1c-a203-74d2a8734f09",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "Ch 7 Reading Test"
   }
 ]

@@ -1,0 +1,200 @@
+{
+  "Id": "94540751-c25b-45aa-a94c-2af9d3d2c055",
+  "Title": "Ch 8 Reading Test",
+  "DisplayOrder": 0,
+  "IsVisible": false,
+  "Items": [
+    {
+      "Id": "02df1348-ee8f-4cda-b4d6-2529376bb670",
+      "Front": "\u5BB6",
+      "Back": "\u3044\u3048 (house / home)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "55d8f513-419a-4374-81e9-abe123142fc3",
+      "Front": "\u5BB6\u65CF",
+      "Back": "\u304B\u305E\u304F (family)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "64667932-af77-4997-9f05-e249158691f4",
+      "Front": "\u7236",
+      "Back": "\u3061\u3061 (father)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "24ce2752-7931-4dda-b3ad-b87834a34021",
+      "Front": "\u304A\u7236\u3055\u3093",
+      "Back": "\u304A\u3068\u3046\u3055\u3093 (father)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "359dd046-136d-4661-bde7-d71791f52db0",
+      "Front": "\u7956\u7236",
+      "Back": "\u305D\u3075 (grandfather)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ad39f9a2-eee7-434f-aebb-526387c7691b",
+      "Front": "\u6BCD",
+      "Back": "\u306F\u306F (mother)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8ff691ec-2e1f-44f7-80ed-97d65ef93548",
+      "Front": "\u304A\u6BCD\u3055\u3093",
+      "Back": "\u304A\u304B\u3042\u3055\u3093 (mother)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "270c44a6-786a-402b-a767-01c1f47d1410",
+      "Front": "\u5144",
+      "Back": "\u3042\u306B (older brother)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "87e76095-ae71-46e1-88fe-7e584b08c2f8",
+      "Front": "\u304A\u5144\u3055\u3093",
+      "Back": "\u304A\u306B\u3044\u3055\u3093 (older brother)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "cc9d41d2-1255-4246-8539-364e0e3b000d",
+      "Front": "\u5144\u5F1F",
+      "Back": "\u304D\u3087\u3046\u3060\u3044 (siblings / brothers)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "48b0be96-ddbb-479d-850f-2e75ac38a74f",
+      "Front": "\u5F1F",
+      "Back": "\u304A\u3068\u3046\u3068 (younger brother)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6978fd50-5357-4ccf-99d4-2150c23fb20a",
+      "Front": "\u5144\u5F1F",
+      "Back": "\u304D\u3087\u3046\u3060\u3044 (siblings / brothers)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e0edf07b-1282-4330-b379-f9fd0084594f",
+      "Front": "\u59C9",
+      "Back": "\u3042\u306D (older sister)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ff915927-0e25-4443-b836-66a6a147938f",
+      "Front": "\u304A\u59C9\u3055\u3093",
+      "Back": "\u304A\u306D\u3048\u3055\u3093 (older sister)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "635c85cd-8747-4543-99f0-4d42579516b2",
+      "Front": "\u59B9",
+      "Back": "\u3044\u3082\u3046\u3068 (younger sister)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4a1fdcaf-db94-48ad-82a2-c883aaca3efb",
+      "Front": "\u72AC",
+      "Back": "\u3044\u306C (dog)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7a5d1bd5-78d5-4614-a2e2-757733ee3b3b",
+      "Front": "\u9AD8\u3044",
+      "Back": "\u305F\u304B\u3044 (expensive / high)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d6ed2b55-3528-4f67-937c-7074a02a9f44",
+      "Front": "\u9AD8\u6821",
+      "Back": "\u3053\u3046\u3053\u3046 (high school)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ce1ee371-fe57-41e9-b2de-8789ec8ae9b8",
+      "Front": "\u9577\u3044",
+      "Back": "\u306A\u304C\u3044 (long)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8a784622-58ea-40a0-97a1-ba9add54c5c1",
+      "Front": "\u793E\u9577",
+      "Back": "\u3057\u3083\u3061\u3087\u3046 (company president)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "05118cc8-5888-4fb2-8f4f-a54cc3d7d399",
+      "Front": "\u77ED\u3044",
+      "Back": "\u307F\u3058\u304B\u3044 (short)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "354b73b3-788b-40bf-8c77-e55fa27c6ade",
+      "Front": "\u8DA3\u5473",
+      "Back": "\u3057\u3085\u307F (hobby)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a28d3c1d-8d46-4bb1-9640-92782b67e888",
+      "Front": "\u51FA\u8EAB\u5730",
+      "Back": "\u3057\u3085\u3063\u3057\u3093\u3061 (hometown / place of origin)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "02e53102-82fa-48fa-a829-464f9db6b319",
+      "Front": "\u8077\u696D",
+      "Back": "\u3057\u3087\u304F\u304E\u3087\u3046 (occupation / profession)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "Id": "04d0422d-7322-453f-910a-3d5e530480d1",
+  "Title": "Chapter 7 Writing Test",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "bda0856b-b121-4a15-9c46-b7c017f867c9",
+      "Front": "\u3044\u3046",
+      "Back": "\u8A00 (to say)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4afe7c43-3117-4c8a-8d02-10957856999a",
+      "Front": "\u3044\u3044\u307E\u3059",
+      "Back": "\u8A00\u3044\u307E\u3059 (to say)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8526c739-c8a9-4e1d-bdf8-22f3183936cc",
+      "Front": "\u304B\u3044",
+      "Back": "\u8C9D (shellfish / shell)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "227cc307-1176-430c-afa8-852353cd85cc",
+      "Front": "\u305F",
+      "Back": "\u7530 (rice field)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b9c41956-dce9-4c58-a4d0-156315ec8875",
+      "Front": "\u305F\u3093\u307C",
+      "Back": "\u7530\u3093\u307C (rice field)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "0e48ce01-25ba-4389-8206-3cc0dc717a63",
+      "Front": "\u3061\u304B\u3089",
+      "Back": "\u529B (strength / power)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3a17b6e4-1964-437f-a2cf-894ebb7fb9f9",
+      "Front": "\u304B\u3069",
+      "Back": "\u9580 (gate)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "dbe93bae-c639-48e2-8285-2b1652fc46b1",
+      "Front": "\u306B\u304F",
+      "Back": "\u8089 (meat)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "23ed791d-28b0-4152-be94-57ad7a0b2629",
+      "Front": "\u304E\u3085\u3046\u306B\u304F",
+      "Back": "\u725B\u8089 (beef)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2e8e0337-d509-413f-bdaf-4435fff011c2",
+      "Front": "\u3076\u305F\u306B\u304F",
+      "Back": "\u8C5A\u8089 (pork)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e394cd48-a627-4090-ba1f-8e2ff50ade6d",
+      "Front": "\u3068\u308A\u306B\u304F",
+      "Back": "\u9D8F\u8089 (chicken meat)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "14d5ed0e-4b28-48aa-9cf8-0052ab9f0f4a",
+      "Front": "\u308A\u3087\u3046\u308A",
+      "Back": "\u6599\u7406 (cooking / cuisine)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "95685373-ae67-48fd-92e8-6c561d17d1d3",
+      "Front": "\u308A",
+      "Back": "\u7406 (reason / logic)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "62b1b179-1c3c-4092-a309-57806f8a3b39",
+      "Front": "\u3084",
+      "Back": "\u91CE (field / plain)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ddff20d1-ee5c-4941-ac29-d8f2df007542",
+      "Front": "\u3084\u3055\u3044",
+      "Back": "\u91CE\u83DC (vegetable)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "95d1bb1e-3827-404e-a8c0-d2de2ce61938",
+      "Front": "\u306A\u304B\u3070",
+      "Back": "\u534A (half)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6591a330-3dd4-4d53-ae2a-385eb048e1c8",
+      "Front": "\u3044\u3061\u3058\u306F\u3093",
+      "Back": "\uFF11\u6642\u534A (1:30)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "429b3716-254d-4ac7-8d2b-c7805405c5f0",
+      "Front": "\u306F\u3093\u3076\u3093",
+      "Back": "\u534A\u5206 (half)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "36ce831f-370b-4eb7-b255-e93fa7da6b11",
+      "Front": "\u306F\u3093\u304C\u304F",
+      "Back": "\u534A\u984D (half price)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e5282118-eeb0-499c-99ba-134a41fc9fca",
+      "Front": "\u304A\u304A\u304D\u3044",
+      "Back": "\u5927 (big)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6e955ecc-3de6-4ced-8fbc-7505ab6abbc0",
+      "Front": "\u3060\u3044\u304C\u304F",
+      "Back": "\u5927\u5B66 (university)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "bcc1318d-58ca-404c-ba09-7f5073fda42e",
+      "Front": "\u304A\u304A\u304D\u3044",
+      "Back": "\u5927\u304D\u3044 (big)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ddd840b3-bace-4012-86f7-5c001c0fed7a",
+      "Front": "\u304A\u3068\u306A",
+      "Back": "\u5927\u4EBA (adult)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "95327dd2-6f81-4e33-8aa5-e4ef11dbcb10",
+      "Front": "\u3061\u3044\u3055\u3044",
+      "Back": "\u5C0F (small)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d7315b90-d6df-4e91-ac54-62ddc26d2302",
+      "Front": "\u3057\u3087\u3046\u304C\u3063\u3053\u3046",
+      "Back": "\u5C0F\u5B66\u6821 (elementary school)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "46d5be12-3490-468c-8a50-814b77d4aae1",
+      "Front": "\u3061\u3044\u3055\u3044",
+      "Back": "\u5C0F\u3055\u3044 (small)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e60671bf-f16d-4846-b2fc-3c8b248137de",
+      "Front": "\u3055\u3051",
+      "Back": "\u9152 (alcohol / sake)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
+}

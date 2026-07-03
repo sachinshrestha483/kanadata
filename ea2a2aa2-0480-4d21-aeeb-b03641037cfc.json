@@ -1,0 +1,560 @@
+{
+  "Id": "ea2a2aa2-0480-4d21-aeeb-b03641037cfc",
+  "Title": "Chapter 9 Vocab Test",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "4a0c61d5-095a-45f5-a02d-a1de381f615a",
+      "Front": "story / topic / subject",
+      "Back": "\u306F\u306A\u3057 (story / topic / subject)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7ac857a6-5d3b-4d5f-9a22-72f6b57d7df7",
+      "Front": "musical",
+      "Back": "\u30DF\u30E5\u30FC\u30B8\u30AB\u30EB (musical)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "eb6fc2db-b4a4-45eb-89a3-7eb344400324",
+      "Front": "CD",
+      "Back": "\u30B7\u30FC\u30C7\u30FC (CD)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "094413cb-5645-4b69-90a6-f38cde205e13",
+      "Front": "cake / sweets",
+      "Back": "\u304A\u304B\u3057 (cake / sweets)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ad8a0402-8607-455a-a8bd-6c8ffd2ece74",
+      "Front": "stamps",
+      "Back": "\u304D\u3063\u3066 (stamps)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1c1874ba-5c25-4a38-96cd-16f9fb799539",
+      "Front": "novels",
+      "Back": "\u3057\u3087\u3046\u305B\u3064 (novels)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e5e0f3f3-cf4e-4f1e-a91a-691fa593d168",
+      "Front": "fishing",
+      "Back": "\u3064\u308A (fishing)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d2a3696d-a7cc-455a-9f10-6aaea591fa18",
+      "Front": "drama",
+      "Back": "\u30C9\u30E9\u30DE (drama)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "89bc54b3-924b-4000-bbce-d81252e3489e",
+      "Front": "stuffed toy",
+      "Back": "\u306C\u3044\u3050\u308B\u307F (stuffed toy)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3c0f6ef7-bf54-4310-a174-55312aa6a1b0",
+      "Front": "pool",
+      "Back": "\u30D7\u30FC\u30EB (pool)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "21e5699f-447d-4fa5-acc4-522b408afff9",
+      "Front": "comic books / manga",
+      "Back": "\u307E\u3093\u304C (comic books / manga)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "40ae806a-f241-4985-8c2e-cc7f6f3ff77a",
+      "Front": "action",
+      "Back": "\u30A2\u30AF\u30B7\u30E7\u30F3 (action)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "cde24440-229c-400b-96d4-34ef72e7eb86",
+      "Front": "classic",
+      "Back": "\u30AF\u30E9\u30B7\u30C3\u30AF (classic)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "87ef7e09-7dd2-4868-b529-980c3882f364",
+      "Front": "pops",
+      "Back": "\u30DD\u30C3\u30D7\u30B9 (pops)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "291aa088-f988-4dd1-a84d-60fbdd34529e",
+      "Front": "recently / lately",
+      "Back": "\u3055\u3044\u304D\u3093 (recently / lately)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "cc23b6df-1432-47f5-8df7-26ffd1f7c3a5",
+      "Front": "day(s)",
+      "Back": "\u306B\u3061 (day(s))",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "17fa7935-0ab2-43ac-b715-0bac6dd25812",
+      "Front": "week(s) (suffix)",
+      "Back": "\u3057\u3085\u3046\u304B\u3093 (week(s) (suffix))",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1b071805-d8e2-4d97-81fb-3d0f0b0350c5",
+      "Front": "month(s)",
+      "Back": "\u304B\u3052\u3064 (month(s))",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9f005bca-fee2-4d9e-ac1d-ea46b020747a",
+      "Front": "year(s)",
+      "Back": "\u306D\u3093 (year(s))",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7ac30ab8-67ef-4e55-a77d-2b16064d8da9",
+      "Front": "time(s)",
+      "Back": "\u304B\u3044 (time(s))",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f1871cc0-51e8-4062-a058-0d9e6be726c0",
+      "Front": "book(s) (counter)",
+      "Back": "\u3055\u3064 (book(s) (counter))",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "75e60507-0295-47ff-b71f-797813851922",
+      "Front": "cup(s) / glass(es) (counter)",
+      "Back": "\u306F\u3044 (cup(s) / glass(es) (counter))",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7296030b-d566-4f85-98b5-61bb9235cf22",
+      "Front": "long objects (counter)",
+      "Back": "\u307B\u3093 (long objects (counter))",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1ca16b8f-6233-45c4-9611-649c8689752f",
+      "Front": "cuisine / cooking",
+      "Back": "\u308A\u3087\u3046\u308A (cuisine / cooking)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "92f3e934-2b4d-487a-ab7e-cea42ed28033",
+      "Front": "swim",
+      "Back": "\u304A\u3088\u304E\u307E\u3059 (swim)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e106c1e8-0e10-4622-b7f5-e89763155b35",
+      "Front": "draw / paint",
+      "Back": "\u3048\u304C\u304D\u307E\u3059 (draw / paint)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "937898a4-5d20-4be9-83ef-6d27621a4d34",
+      "Front": "collect",
+      "Back": "\u3042\u3064\u3081\u307E\u3059 (collect)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a16a1c00-e172-4b2f-8565-c0d5e66ed274",
+      "Front": "drive",
+      "Back": "\u3046\u3093\u3066\u3093\u3057\u307E\u3059 (drive)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f4582908-21c9-4cfa-b3e2-1b4bd819b158",
+      "Front": "especially",
+      "Back": "\u3068\u304F\u306B (especially)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a88ad5dc-4abe-422e-9e5a-aa1feef14a65",
+      "Front": "always",
+      "Back": "\u3044\u3064\u3082 (always)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "efaa588b-b424-4df2-b472-d5a813bf2cbf",
+      "Front": "often",
+      "Back": "\u3088\u304F (often)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "40a16111-ca60-4b24-a201-02c004a6ac07",
+      "Front": "sometimes",
+      "Back": "\u3068\u304D\u3069\u304D (sometimes)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d2635efc-3f8b-4c8e-92f8-86ea872cc034",
+      "Front": "not very often",
+      "Back": "\u3042\u307E\u308A (not very often)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1e4d085f-f4d1-4973-b914-0b54e3da72e1",
+      "Front": "not at all",
+      "Back": "\u305C\u3093\u305C\u3093 (not at all)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "0e4c5e2e-0e20-43e5-8889-51a8591478d0",
+      "Front": "but",
+      "Back": "\u3067\u3082 (but)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "558742dc-57b2-4ff9-be87-f9ccc5164b3f",
+      "Front": "only / just",
+      "Back": "\u3060\u3051 (only / just)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "cfd72bae-2046-4cce-b144-290bee285388",
+      "Front": "event",
+      "Back": "\u30A4\u30D9\u30F3\u30C8 (event)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "484e816b-6806-491a-a8d8-57ee2b6b35f1",
+      "Front": "contest",
+      "Back": "\u30B3\u30F3\u30C6\u30B9\u30C8 (contest)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a2e38337-f6b6-4dda-8f4d-4ca7f8a6b778",
+      "Front": "calligraphy",
+      "Back": "\u3057\u3087\u3069\u3046 (calligraphy)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "99199c62-7ffb-41ce-90a8-aa43cb118508",
+      "Front": "scuba diving",
+      "Back": "\u30C0\u30A4\u30D3\u30F3\u30B0 (scuba diving)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d1789e04-f714-48a2-be5a-711f19ac4740",
+      "Front": "dance",
+      "Back": "\u30C0\u30F3\u30B9 (dance)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "af6107cd-e785-4f19-98c7-c9832f7b1a00",
+      "Front": "club",
+      "Back": "\u30AF\u30E9\u30D6 (club)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d103dccc-f519-4cf7-bbfd-270f659869bc",
+      "Front": "school / classroom",
+      "Back": "\u304D\u3087\u3046\u3057\u3064 (school / classroom)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "60ba9dfb-cc19-4f04-a07b-9cebde711d4a",
+      "Front": "learn",
+      "Back": "\u306A\u3089\u3044\u307E\u3059 (learn)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3b451dea-c6f1-428e-8cc4-8ddc3a61ddd7",
+      "Front": "ride",
+      "Back": "\u306E\u308A\u307E\u3059 (ride)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "fc03e0be-7ea7-414c-b410-91c1720605d2",
+      "Front": "join",
+      "Back": "\u306F\u3044\u308A\u307E\u3059 (join)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "24bfeea2-1acd-48c2-b637-3b308a4d06a3",
+      "Front": "apply",
+      "Back": "\u3082\u3046\u3057\u3053\u307F\u307E\u3059 (apply)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "33c9e0ae-d1a6-4278-96b6-de8a690fc43c",
+      "Front": "can / able to",
+      "Back": "\u3067\u304D\u307E\u3059 (can / able to)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "aaed3089-4033-442e-a972-7d02280110ec",
+      "Front": "participate",
+      "Back": "\u3055\u3093\u304B\u3057\u307E\u3059 (participate)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "96d1911c-fee5-4c0d-82a9-261cba8048b5",
+      "Front": "amazing",
+      "Back": "\u3059\u3054\u3044 (amazing)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "46b6291e-9aa4-436f-82da-265fff2f6591",
+      "Front": "a variety of",
+      "Back": "\u3044\u308D\u3044\u308D (a variety of)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "27f15b3b-b85f-4105-813e-94d58bd08a87",
+      "Front": "good at",
+      "Back": "\u3058\u3087\u3046\u305A (good at)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2d27e16f-90c2-441f-a191-74368bac4e76",
+      "Front": "reception / information",
+      "Back": "\u3046\u3051\u3064\u3051 (reception / information)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "bc99cb1e-6c89-49f2-b55a-b1bf3ce143c0",
+      "Front": "card",
+      "Back": "\u30AB\u30FC\u30C9 (card)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "98681c5b-e23f-4e8b-8782-4aec2109f412",
+      "Front": "residence card",
+      "Back": "\u3056\u3044\u308A\u3085\u3046\u30AB\u30FC\u30C9 (residence card)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "09c94a15-5b09-4ce3-bf1c-b9bc04fbd4cf",
+      "Front": "address",
+      "Back": "\u3058\u3085\u3046\u3057\u3087 (address)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "754ef12d-801f-492e-b372-8b9a055b8183",
+      "Front": "telephone number",
+      "Back": "\u3067\u3093\u308F\u3070\u3093\u3054\u3046 (telephone number)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "744c2502-79aa-47fa-ac08-6a311b4565fd",
+      "Front": "face",
+      "Back": "\u304B\u304A (face)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "05c5112f-d0aa-456d-b497-5b8dbfff4c66",
+      "Front": "homework",
+      "Back": "\u3057\u3085\u304F\u3060\u3044 (homework)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "faffaa4b-74b2-4f46-828b-24e9ef1ea3e0",
+      "Front": "number",
+      "Back": "\u3070\u3093\u3054\u3046 (number)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "65485fa2-e185-4436-82ac-a09d3f72ecf2",
+      "Front": "say",
+      "Back": "\u3044\u3044\u307E\u3059 (say)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f55c4ba3-75bd-42c0-bc37-9a8c25093a91",
+      "Front": "pay",
+      "Back": "\u306F\u3089\u3044\u307E\u3059 (pay)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "842635a7-aa8f-4e33-8cbf-55b3604bf6b5",
+      "Front": "get off",
+      "Back": "\u304A\u308A\u307E\u3059 (get off)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "0849952b-bb0c-4d99-a41c-364709861fc6",
+      "Front": "show",
+      "Back": "\u307F\u305B\u307E\u3059 (show)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6b5d52f7-46a7-4d35-8228-cc21d64f0981",
+      "Front": "reserve",
+      "Back": "\u3088\u3084\u304F\u3057\u307E\u3059 (reserve)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f69b3bd0-e368-43da-ac06-843db7ec88e6",
+      "Front": "how / in what way",
+      "Back": "\u3069\u3046\u3084\u3063\u3066 (how / in what way)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ca8237be-2f71-45b3-8493-f870c31e0a54",
+      "Front": "let\u2019s ask again",
+      "Back": "\u3082\u3046\u3044\u3061\u3069\u304D\u3053\u3046 (let\u2019s ask again)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c080c0fd-91a4-41c7-b11a-af75cba23bf3",
+      "Front": "classmate",
+      "Back": "\u30AF\u30E9\u30B9\u30E1\u30A4\u30C8 (classmate)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "0924ec2b-8bd8-4eac-9d7b-14ea27ce6fd3",
+      "Front": "in the past",
+      "Back": "\u3080\u304B\u3057 (in the past)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
+}

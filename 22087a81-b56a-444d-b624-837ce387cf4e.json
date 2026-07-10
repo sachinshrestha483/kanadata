@@ -1,0 +1,216 @@
+{
+  "Id": "22087a81-b56a-444d-b624-837ce387cf4e",
+  "Title": "Ch 11",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "9b7a5e2a-5368-4432-91cc-8c46376243b9",
+      "Front": "\u8D77",
+      "Back": "\u304A\u304D\u308B (wake up)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a51a4855-7e1d-4b08-baef-d73947696323",
+      "Front": "\u8D77\u304D\u307E\u3059",
+      "Back": "\u304A\u304D\u307E\u3059 (wake up)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d4fbb476-24eb-42d8-8957-b5b0b65a62db",
+      "Front": "\u6563\u6B69",
+      "Back": "\u3055\u3093\u307D (walk / stroll)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b0981ed2-dc87-48d0-a6d5-0725d00a1659",
+      "Front": "\u6B69\u304D\u307E\u3059",
+      "Back": "\u3042\u308B\u304D\u307E\u3059 (to walk)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "63bcb99c-65bf-4be0-97b8-579d2e2072c6",
+      "Front": "\u4E57",
+      "Back": "\u306E\u308B (ride / get on)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1e8bd21a-25fa-44aa-bf1d-6bd8cde86efd",
+      "Front": "\u4E57\u308A\u307E\u3059",
+      "Back": "\u306E\u308A\u307E\u3059 (ride / get on)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a4ad8ae3-54ee-49b7-a869-bdceba6b164f",
+      "Front": "\u59CB",
+      "Back": "\u306F\u3058\u3081\u308B (begin / start)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "08336e59-8961-45d5-a386-a3e4ed1cb86b",
+      "Front": "\u59CB\u3081\u307E\u3059",
+      "Back": "\u306F\u3058\u3081\u307E\u3059 (to start)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9aab0917-f1bf-43b3-adcf-1847e42390e9",
+      "Front": "\u59CB\u307E\u308A\u307E\u3059",
+      "Back": "\u306F\u3058\u307E\u308A\u307E\u3059 (to begin)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "40a1bf38-8ac5-4928-91d8-052c63a545ed",
+      "Front": "\u7D42",
+      "Back": "\u304A\u308F\u308B (end / finish)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "da77dfd6-89d4-4f6a-9d83-f5837b2b3bd8",
+      "Front": "\u7D42\u308F\u308A\u307E\u3059",
+      "Back": "\u304A\u308F\u308A\u307E\u3059 (to finish)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "159efb88-890f-4aee-a330-502735e6537a",
+      "Front": "\u52C9",
+      "Back": "\u3079\u3093 (diligence / study)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2d1bd8f1-0873-4e71-a687-a9312f14216d",
+      "Front": "\u52C9\u5F37",
+      "Back": "\u3079\u3093\u304D\u3087\u3046 (study)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6fe362ec-b614-4117-9bfa-4856af273a86",
+      "Front": "\u5F37\u3044",
+      "Back": "\u3064\u3088\u3044 (strong)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "0f12a9ce-80c7-4465-bcda-607443d3ce8a",
+      "Front": "\u52C9\u5F37",
+      "Back": "\u3079\u3093\u304D\u3087\u3046 (study)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "53910adc-f763-4306-bca6-b7bdbdead8a8",
+      "Front": "\u671D",
+      "Back": "\u3042\u3055 (morning)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "11376b4c-049c-419b-afcf-ee186da4cb6b",
+      "Front": "\u4ECA\u671D",
+      "Back": "\u3051\u3055 (this morning)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "803538bd-79a3-4f6c-9a02-d3bd75741e7e",
+      "Front": "\u671D\u98DF",
+      "Back": "\u3061\u3087\u3046\u3057\u3087\u304F (breakfast)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "65e164a1-edff-4020-b8e8-0a744f87221b",
+      "Front": "\u663C",
+      "Back": "\u3072\u308B (daytime / noon)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1f0efd8d-ad19-4c3f-8841-b06058f88432",
+      "Front": "\u591C",
+      "Back": "\u3088\u308B (night)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d5d14ff8-c19a-4c1b-8420-a2a490b5cc1b",
+      "Front": "\u4ECA\u591C",
+      "Back": "\u3053\u3093\u3084 (tonight)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d151ef56-8f90-4786-ac83-a6c7e8968c2c",
+      "Front": "\u81EA\u8EE2\u8ECA",
+      "Back": "\u3058\u3066\u3093\u3057\u3083 (bicycle)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "0f704e2a-eda9-491a-b526-e03d519963f1",
+      "Front": "\u5BDD\u308B",
+      "Back": "\u306D\u308B (to sleep)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "10eff1aa-bbd1-408c-86f1-c40579c7d60a",
+      "Front": "\u96C6\u5408",
+      "Back": "\u3057\u3085\u3046\u3054\u3046 (gathering / assembly)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e647c44e-76bb-49ca-9bd6-32fd950a2ba0",
+      "Front": "\u5730\u4E0B\u9244",
+      "Back": "\u3061\u304B\u3066\u3064 (subway)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2078ea81-6faa-440d-a814-b0cd5d951b7a",
+      "Front": "\u99D0\u8ECA\u5834",
+      "Back": "\u3061\u3085\u3046\u3057\u3083\u3058\u3087\u3046 (parking lot)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
+}

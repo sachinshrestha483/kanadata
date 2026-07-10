@@ -112,5 +112,11 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "Chapter 9 Vocab Test"
+  },
+  {
+    "Id": "2bd4c285-14a7-4b29-9a40-bc4dc6f0aeb2",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "Chapter 10 Kanji"
   }
 ]

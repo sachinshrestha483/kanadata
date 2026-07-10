@@ -1,0 +1,216 @@
+{
+  "Id": "2bd4c285-14a7-4b29-9a40-bc4dc6f0aeb2",
+  "Title": "Chapter 10 Kanji",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "6b3ce731-0212-47e1-adca-bd427c8a8bd6",
+      "Front": "\u99C5",
+      "Back": "\u3048\u304D (station)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "fb95acd7-5f8d-45ce-b279-8c79bc464ef6",
+      "Front": "\u4E0A",
+      "Back": "\u3046\u3048 (up / above)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "bf052ae0-92ae-4cc4-8357-6f97d645c660",
+      "Front": "\u4E0A\u624B",
+      "Back": "\u3058\u3087\u3046\u305A (skillful / good at)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "635a3874-5a6a-4837-b1c5-f9a282e02189",
+      "Front": "\u4E0B",
+      "Back": "\u3057\u305F (down / below)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9d491bea-b71e-4d02-99f0-9157b6b403a6",
+      "Front": "\u5730\u4E0B\u9244",
+      "Back": "\u3061\u304B\u3066\u3064 (subway)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "97c7f633-a487-4b12-8f58-4df08ba51d23",
+      "Front": "\u4E0B\u624B",
+      "Back": "\u3078\u305F (unskillful / poor at)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "abb8ba59-f236-4b31-b162-b6fce1359b69",
+      "Front": "\u5730",
+      "Back": "\u3061 (ground / earth)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "76a08b30-7822-42aa-88b8-dbed7c693da5",
+      "Front": "\u5730\u56F3",
+      "Back": "\u3061\u305A (map)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ea6332e1-1761-4e19-a735-6df4d2dcef77",
+      "Front": "\u5730\u4E0B\u9244",
+      "Back": "\u3061\u304B\u3066\u3064 (subway)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "0c81760e-3453-480d-9e28-6ad861042141",
+      "Front": "\u5730\u9707",
+      "Back": "\u3058\u3057\u3093 (earthquake)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "94734fad-14c9-46fa-ab03-1dfe364106f9",
+      "Front": "\u56F3",
+      "Back": "\u305A (diagram / figure)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "81c8d108-95cf-44af-8169-f12686693e99",
+      "Front": "\u5730\u56F3",
+      "Back": "\u3061\u305A (map)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "024cb628-8f02-4205-8299-73a1c8fd8103",
+      "Front": "\u56F3\u66F8\u9928",
+      "Back": "\u3068\u3057\u3087\u304B\u3093 (library)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d4d0dd27-663c-4cae-a356-4102ff8e8d67",
+      "Front": "\u9928",
+      "Back": "\u304B\u3093 (building / hall)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4810c7c8-3db9-4089-aa92-2e02d2bae958",
+      "Front": "\u56F3\u66F8\u9928",
+      "Back": "\u3068\u3057\u3087\u304B\u3093 (library)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "54a933ae-7f55-47ae-afde-601032898590",
+      "Front": "\u6620\u753B\u9928",
+      "Back": "\u3048\u3044\u304C\u304B\u3093 (movie theater)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "50c95fa8-daae-4c81-8f86-1f7cd11b4da5",
+      "Front": "\u53F3",
+      "Back": "\u307F\u304E (right)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a58812b1-5eaf-4ad9-849d-33753292345c",
+      "Front": "\u5DE6",
+      "Back": "\u3072\u3060\u308A (left)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c9742917-6394-418d-9e95-323cd2cdbe92",
+      "Front": "\u9053",
+      "Back": "\u307F\u3061 (road / way)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "bbd84994-ae21-4c84-ba98-4d975efac071",
+      "Front": "\u6C34\u9053",
+      "Back": "\u3059\u3044\u3069\u3046 (water supply)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ab59dedf-1f3a-45d7-8956-06b5694f63d0",
+      "Front": "\u5317\u53E3",
+      "Back": "\u304D\u305F\u3050\u3061 (north exit)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "90b785fd-6c94-47f6-a55e-77c82ddf64bd",
+      "Front": "\u5357\u53E3",
+      "Back": "\u307F\u306A\u307F\u3050\u53E3 (south exit)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e621ca9c-8c52-435e-9dc9-fa467a29431e",
+      "Front": "\u897F\u53E3",
+      "Back": "\u306B\u3057\u3050\u3061 (west exit)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c780d25c-d50d-4763-ad92-56c38571dbc0",
+      "Front": "\u9280\u884C",
+      "Back": "\u304E\u3093\u3053\u3046 (bank)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a62328a2-2a04-4045-9f0e-6aacdcfcc52f",
+      "Front": "\u5730\u4E0B\u9244",
+      "Back": "\u3061\u304B\u3066\u3064 (subway)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ca76ae45-11ae-4260-813b-799f37a958ce",
+      "Front": "\u99D0\u8ECA\u5834",
+      "Back": "\u3061\u3085\u3046\u3057\u3083\u3058\u3087\u3046 (parking lot)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
+}

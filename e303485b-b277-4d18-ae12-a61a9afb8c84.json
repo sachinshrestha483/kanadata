@@ -1,0 +1,640 @@
+{
+  "Id": "e303485b-b277-4d18-ae12-a61a9afb8c84",
+  "Title": "Chapter 10 Vocab",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "e04f01fc-c315-4d01-8794-16c389279405",
+      "Front": "ship / boat",
+      "Back": "\u3075\u306D (ship / boat)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a16cf365-a103-4cc2-93d3-703fe67fbb63",
+      "Front": "sales section",
+      "Back": "\u3046\u308A\u3070 (sales section)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "10cc7c7b-9b3e-4331-938e-3e25b6028e8c",
+      "Front": "sound",
+      "Back": "\u304A\u3068 (sound)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "fdc94336-8902-41ff-9816-8e648e72d4c5",
+      "Front": "voice",
+      "Back": "\u3053\u3048 (voice)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b53545b8-6123-42f9-9cf9-b6346fc79fb2",
+      "Front": "medicine",
+      "Back": "\u304F\u3059\u308A (medicine)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "09f56726-f021-4d5d-83b9-1addd62a2314",
+      "Front": "corner",
+      "Back": "\u304B\u3069 (corner)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "277c13de-9417-4926-bda0-3883a7e0e5cc",
+      "Front": "intersection",
+      "Back": "\u3053\u3046\u3055\u3066\u3093 (intersection)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "22f6921d-22ab-46ba-8709-d286527298c9",
+      "Front": "signal",
+      "Back": "\u3057\u3093\u3054\u3046 (signal)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "cb3812ba-cec7-4090-8a15-ebb4a75ec77d",
+      "Front": "bridge",
+      "Back": "\u306F\u3057 (bridge)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "fe665ccf-ff3b-48e5-86c1-7b6f0da53e63",
+      "Front": "street / road",
+      "Back": "\u307F\u3061 (street / road)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2e5fe322-b0f4-48b0-a2dd-3eaaec4f8d80",
+      "Front": "left",
+      "Back": "\u3072\u3060\u308A (left)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e201d66e-9b80-4d75-a2c4-3d643c8de6e8",
+      "Front": "right",
+      "Back": "\u307F\u304E (right)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6dc88696-b478-4026-8f1b-cd4f3b13c957",
+      "Front": "ordinal numbers",
+      "Back": "\u3081 (ordinal numbers)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "05d6c937-22c5-432f-ac99-1081f1bbaf15",
+      "Front": "search / look for",
+      "Back": "\u3055\u304C\u3057\u307E\u3059 (search / look for)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f4398553-d5ba-4caf-a823-51e4b27e5971",
+      "Front": "drink / take",
+      "Back": "\u306E\u307F\u307E\u3059 (drink / take)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6bdee31e-b4ee-4578-9729-70e2e4ae4611",
+      "Front": "wait",
+      "Back": "\u307E\u3061\u307E\u3059 (wait)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "bd67c2e8-bea9-4280-a5e2-8e60baf909f0",
+      "Front": "turn",
+      "Back": "\u307E\u304C\u308A\u307E\u3059 (turn)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "5c3ee32d-1381-406d-a039-1fdb50c8fcfd",
+      "Front": "cross",
+      "Back": "\u308F\u305F\u308A\u307E\u3059 (cross)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "87033775-2bf3-4629-b824-dda598c66b70",
+      "Front": "able to hear",
+      "Back": "\u304D\u3053\u3048\u307E\u3059 (able to hear)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e76eb90c-1c72-4a7b-896b-ad24c8ab548e",
+      "Front": "able to see",
+      "Back": "\u307F\u3048\u307E\u3059 (able to see)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2154f5e9-8efd-4d63-a453-be1bf90d0c6d",
+      "Front": "straight ahead",
+      "Back": "\u307E\u3063\u3059\u3050 (straight ahead)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7d005f90-9592-4e31-8db6-4adde3b50281",
+      "Front": "quite",
+      "Back": "\u3088\u304F (quite)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "517d0b39-d6f8-4a85-845f-30bc823b42a9",
+      "Front": "i don\u0027t quite understand",
+      "Back": "\u3088\u304F\u308F\u304B\u308A\u307E\u305B\u3093 (i don\u0027t quite understand)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "5f820dba-9e8d-4f30-9ff8-38212aeb7a97",
+      "Front": "just a moment",
+      "Back": "\u3061\u3087\u3063\u3068 (just a moment)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a93d264d-c5b1-43c3-8343-ccae2ba02783",
+      "Front": "umm",
+      "Back": "\u3048\u3048\u3068 (umm)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "5a9078e0-8cfb-45a3-9027-0097046c8f99",
+      "Front": "curtain",
+      "Back": "\u30AB\u30FC\u30C6\u30F3 (curtain)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "275dbe92-aae1-4378-95ad-c6e201c461e4",
+      "Front": "guest / customer",
+      "Back": "\u304A\u304D\u3083\u304F\u3055\u3093 (guest / customer)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "fe57a0eb-1baa-4330-a332-c99cdbdaa337",
+      "Front": "cell phone",
+      "Back": "\u3051\u3044\u305F\u3044\u3067\u3093\u308F (cell phone)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ae6bfbfe-b5b6-47f6-a53e-751bde1812c3",
+      "Front": "trash",
+      "Back": "\u3054\u307F (trash)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b8795a72-6bf9-4b69-9c1a-30ed229b45f5",
+      "Front": "grass",
+      "Back": "\u304F\u3055 (grass)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4fe55fd4-f340-4b59-8485-5763f11f34e0",
+      "Front": "hand",
+      "Back": "\u3066 (hand)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a3889a18-3321-4d81-872a-d46092c42246",
+      "Front": "luggage",
+      "Back": "\u306B\u3082\u3064 (luggage)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "da4c7427-f56e-4fe6-94ce-c7f03e18933e",
+      "Front": "pamphlet",
+      "Back": "\u30D1\u30F3\u30D5\u30EC\u30C3\u30C8 (pamphlet)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b33c4bfd-b370-46eb-8b4f-687319fb7b48",
+      "Front": "other",
+      "Back": "\u307B\u304B (other)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "95fdff34-a51e-41d6-91a7-ccfe0490fe64",
+      "Front": "everyone",
+      "Back": "\u307F\u306A\u3055\u3093 (everyone)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d390d47b-674e-481d-91a4-02477e19cda2",
+      "Front": "souvenirs",
+      "Back": "\u304A\u307F\u3084\u3052 (souvenirs)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c17da7b8-ba96-4c34-a4ae-36e86da6a059",
+      "Front": "push",
+      "Back": "\u304A\u3057\u307E\u3059 (push)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "695c1a43-9eae-4e01-959b-f707ce57eaf2",
+      "Front": "touch",
+      "Back": "\u3055\u308F\u308A\u307E\u3059 (touch)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4ec63ad0-cb5f-43b9-8eba-8f72d37f0d1b",
+      "Front": "sit",
+      "Back": "\u3059\u308F\u308A\u307E\u3059 (sit)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "41a3605d-3581-48b8-b124-1469f62993dd",
+      "Front": "stand",
+      "Back": "\u305F\u3061\u307E\u3059 (stand)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c9493efc-2294-4ac6-a067-14f3894d4e74",
+      "Front": "lose",
+      "Back": "\u306A\u304F\u3057\u307E\u3059 (lose)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "be7fe4cb-5436-4441-93c8-796a076f8e2a",
+      "Front": "enter",
+      "Back": "\u306F\u3044\u308A\u307E\u3059 (enter)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "94fe7561-707f-4602-b1a5-968e69c52b05",
+      "Front": "take home",
+      "Back": "\u3082\u3063\u3066\u304B\u3048\u308A\u307E\u3059 (take home)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "60a72c7f-e701-4e3a-84b2-7133433982b2",
+      "Front": "be late",
+      "Back": "\u304A\u304F\u308C\u307E\u3059 (be late)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f9058ee8-0b39-41a0-ba79-6e72c6c95d51",
+      "Front": "throw away",
+      "Back": "\u3059\u3066\u307E\u3059 (throw away)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "979f24f1-0a32-42cb-b0b5-fb6d97249680",
+      "Front": "gather / meet",
+      "Back": "\u3042\u3064\u307E\u308A\u307E\u3059 (gather / meet)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "80364dcb-02c6-4a95-999c-24002610586e",
+      "Front": "dangerous",
+      "Back": "\u3042\u3076\u306A\u3044 (dangerous)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a907125a-fd60-4ddc-a90c-219fc53d992e",
+      "Front": "important",
+      "Back": "\u305F\u3044\u305B\u3064 (important)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f1af3209-ab7b-49d8-988d-ae282c722f55",
+      "Front": "disturb",
+      "Back": "\u3081\u3044\u308F\u304F (disturb)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8f98bfa7-f414-4004-8b6c-dd0a850713d6",
+      "Front": "zoo",
+      "Back": "\u3069\u3046\u3076\u3064\u3048\u3093 (zoo)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7318903c-546d-4c87-8030-396cfec0b2b6",
+      "Front": "bear",
+      "Back": "\u304F\u307E (bear)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "dc4ae2c3-e703-4aa4-8e77-6a04e7a58b6b",
+      "Front": "koala",
+      "Back": "\u30B3\u30A2\u30E9 (koala)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b0f8a928-1f28-4ddd-b70c-68a60680ce45",
+      "Front": "monkey",
+      "Back": "\u30B5\u30EB (monkey)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7706e8b3-ec1b-41d1-9416-033222bf0413",
+      "Front": "elephant",
+      "Back": "\u30BE\u30A6 (elephant)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d1341592-5fb7-492c-a92e-651032a8158a",
+      "Front": "panda",
+      "Back": "\u30D1\u30F3\u30C0 (panda)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "134dd31f-19f8-4eea-84cd-8f2ee6ff007d",
+      "Front": "penguin",
+      "Back": "\u30DA\u30F3\u30AE\u30F3 (penguin)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c09045e6-1ff9-4ac6-9ffb-086b8d7a4db7",
+      "Front": "entrance",
+      "Back": "\u3044\u308A\u3050\u3061 (entrance)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "5aa3ea8f-ac7a-49c8-b86b-53c680c9221e",
+      "Front": "exit",
+      "Back": "\u3067\u3050\u3061 (exit)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ca91bc5a-09c1-4336-ac97-6ad4e1a45fd2",
+      "Front": "animal feed",
+      "Back": "\u3048\u3055 (animal feed)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "63f686a4-c1d6-47c9-bfe9-ff4582ca1b46",
+      "Front": "stomach",
+      "Back": "\u304A\u306A\u304B (stomach)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c2ef97c3-f8f5-4d7f-9d69-49c2327c608e",
+      "Front": "ferris wheel",
+      "Back": "\u304B\u3093\u3089\u3093\u3057\u3083 (ferris wheel)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "dfcb6693-2426-4dee-b61e-30dc51599ffb",
+      "Front": "banana",
+      "Back": "\u30D0\u30CA\u30CA (banana)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "73ed5a9b-17e9-4887-a928-b56d4828f808",
+      "Front": "ball",
+      "Back": "\u30DC\u30FC\u30EB (ball)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a9ed3c5a-a592-40a2-9936-c11575c34527",
+      "Front": "and others",
+      "Back": "\u305F\u3061 (and others)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "89726542-1df7-4189-a492-b520dad9cd9e",
+      "Front": "walk",
+      "Back": "\u3042\u308B\u304D\u307E\u3059 (walk)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8bd3d33b-a101-49cc-833d-68cb52ae46f2",
+      "Front": "fly",
+      "Back": "\u3068\u3073\u307E\u3059 (fly)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "27f1908e-d835-4821-9570-5f5c9c2019a4",
+      "Front": "become",
+      "Back": "\u306A\u308A\u307E\u3059 (become)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f3345514-dc28-4d30-9cd7-ac434a5f6d3e",
+      "Front": "rest",
+      "Back": "\u3084\u3059\u307F\u307E\u3059 (rest)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "94442bdc-f7f7-45ae-9911-5a0d2389a204",
+      "Front": "do / give",
+      "Back": "\u3084\u308A\u307E\u3059 (do / give)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "942d573e-14ee-4d01-81f2-8e8873b1412c",
+      "Front": "get hungry",
+      "Back": "\u304A\u306A\u304B\u304C\u3059\u304D\u307E\u3059 (get hungry)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3d5c9534-192e-4fe7-8329-1fbf906bd046",
+      "Front": "get thirsty",
+      "Back": "\u306E\u3069\u304C\u304B\u308F\u304D\u307E\u3059 (get thirsty)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "886cac02-d76d-4a6b-949d-57611fbcc227",
+      "Front": "tired",
+      "Back": "\u3064\u304B\u308C\u307E\u3059 (tired)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "534483a0-ba25-4614-861e-837d85fa3ff9",
+      "Front": "painful",
+      "Back": "\u3044\u305F\u3044 (painful)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a8d6249c-f8ac-49bd-937b-799451d4b365",
+      "Front": "dark",
+      "Back": "\u304F\u3089\u3044 (dark)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ac6daa5a-7595-402a-bccf-8b95df1b0a4b",
+      "Front": "soon",
+      "Back": "\u305D\u308D\u305D\u308D (soon)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "aac45384-c8ee-4aa6-ab50-e407475c37a5",
+      "Front": "correct / true",
+      "Back": "\u307B\u3093\u3068\u3046 (correct / true)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "798442b7-043d-4d7c-a373-295ddffc9d74",
+      "Front": "place",
+      "Back": "\u3070\u3057\u3087 (place)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9febf785-03bd-4557-90d0-39b9c08a129d",
+      "Front": "meet up",
+      "Back": "\u307E\u3061\u3042\u308F\u305B (meet up)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "47b0d292-6d09-4a2c-bf78-6bc28d86b405",
+      "Front": "slowly / leisurely",
+      "Back": "\u3086\u3063\u304F\u308A (slowly / leisurely)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
+}

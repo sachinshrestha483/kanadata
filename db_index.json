@@ -130,5 +130,11 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "Chapter 9 Kanji"
+  },
+  {
+    "Id": "e303485b-b277-4d18-ae12-a61a9afb8c84",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "Chapter 10 Vocab"
   }
 ]

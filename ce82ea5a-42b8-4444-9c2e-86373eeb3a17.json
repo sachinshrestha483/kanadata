@@ -1,0 +1,168 @@
+{
+  "Id": "ce82ea5a-42b8-4444-9c2e-86373eeb3a17",
+  "Title": "Chapter 8 Writing Test",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "5337536d-db32-4584-9db1-5689941d0a7c",
+      "Front": "\u3044\u3048",
+      "Back": "\u5BB6 (house / home)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "55e98a0e-c701-499e-ae32-135eaad268eb",
+      "Front": "\u304B\u305E\u304F",
+      "Back": "\u5BB6\u65CF (family)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "09ec941c-9ce9-4da3-b950-1f7135e44dc6",
+      "Front": "\u3061\u3061",
+      "Back": "\u7236 (father)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "cac7cbd8-37fa-4447-a986-581ed691b931",
+      "Front": "\u304A\u3068\u3046\u3055\u3093",
+      "Back": "\u304A\u7236\u3055\u3093 (father)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "12718477-a3d4-4401-9ef9-9c4c87b77a12",
+      "Front": "\u305D\u3075",
+      "Back": "\u7956\u7236 (grandfather)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f520d663-ba52-4fce-85db-86a8cb90ce31",
+      "Front": "\u306F\u306F",
+      "Back": "\u6BCD (mother)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "561de4c5-bdcd-4945-94a4-9499f29eeb7d",
+      "Front": "\u304A\u304B\u3042\u3055\u3093",
+      "Back": "\u304A\u6BCD\u3055\u3093 (mother)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3ac0de39-173c-4f88-bc39-cdf6a580a675",
+      "Front": "\u3042\u306B",
+      "Back": "\u5144 (older brother)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d16168f6-dcf2-43c2-8211-552d8d424a32",
+      "Front": "\u304A\u306B\u3044\u3055\u3093",
+      "Back": "\u304A\u5144\u3055\u3093 (older brother)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f1c44758-9ad8-4300-811f-3bbe50df4c3e",
+      "Front": "\u304D\u3087\u3046\u3060\u3044",
+      "Back": "\u5144\u5F1F (siblings / brothers)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6e8cba3e-664a-4b55-afcc-388c51e4d642",
+      "Front": "\u304A\u3068\u3046\u3068",
+      "Back": "\u5F1F (younger brother)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f13cbf77-8560-4c71-a85f-5003cf18c583",
+      "Front": "\u3042\u306D",
+      "Back": "\u59C9 (older sister)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6d4b251d-278d-4b0e-a317-61efea214aa4",
+      "Front": "\u304A\u306D\u3048\u3055\u3093",
+      "Back": "\u304A\u59C9\u3055\u3093 (older sister)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "67fcc2d4-415a-44a5-b707-078f5f8bf9fb",
+      "Front": "\u3044\u3082\u3046\u3068",
+      "Back": "\u59B9 (younger sister)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "bb018696-8a25-4d73-ad15-62229191a5ae",
+      "Front": "\u3044\u306C",
+      "Back": "\u72AC (dog)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c6e62d7b-e2dc-4e7c-ba06-7847bd8e70d2",
+      "Front": "\u305F\u304B\u3044",
+      "Back": "\u9AD8\u3044 (expensive / high)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "99caf62f-a814-468b-abea-15341707b1b9",
+      "Front": "\u3053\u3046\u3053\u3046",
+      "Back": "\u9AD8\u6821 (high school)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "16f2f63b-571e-43dd-835d-f2ba66dd47b6",
+      "Front": "\u306A\u304C\u3044",
+      "Back": "\u9577\u3044 (long)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "29c7f07b-0553-4299-8797-2374ff423e1e",
+      "Front": "\u3057\u3083\u3061\u3087\u3046",
+      "Back": "\u793E\u9577 (company president)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "dbd7a9ea-330c-4197-a7b8-9239e3bb5b30",
+      "Front": "\u307F\u3058\u304B\u3044",
+      "Back": "\u77ED\u3044 (short)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
+}

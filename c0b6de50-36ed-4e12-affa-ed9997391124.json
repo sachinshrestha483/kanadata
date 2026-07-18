@@ -1,0 +1,464 @@
+{
+  "Id": "c0b6de50-36ed-4e12-affa-ed9997391124",
+  "Title": "Ch 11 Vocab",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "dbc298c7-f870-4604-8ece-4b7a26a21a7c",
+      "Front": "present life / current life",
+      "Back": "\u3044\u307E\u306E\u305B\u3044\u304B\u3064 (present life / current life)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c8a18467-42e5-4f10-a0fd-560dbdd4bf3c",
+      "Front": "conversation",
+      "Back": "\u304B\u3044\u308F (conversation)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "61594ca9-f526-4dbc-af62-8843ac3c6801",
+      "Front": "composition",
+      "Back": "\u3055\u304F\u3076\u3093 (composition)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9e78072f-b61e-44f0-9824-1ccd5b3aa279",
+      "Front": "classmate",
+      "Back": "\u30AF\u30E9\u30B9\u30E1\u30A4\u30C8 (classmate)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ba63ddd7-c988-4e49-ac06-ecb706f34436",
+      "Front": "magazine",
+      "Back": "\u3056\u3063\u3057 (magazine)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c6a6da93-c99f-4b27-97f6-743015224438",
+      "Front": "jogging",
+      "Back": "\u30B8\u30E7\u30AE\u30F3\u30B0 (jogging)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7ed7dcf4-f5c9-4adc-8b35-0dba99ac4f3a",
+      "Front": "life / daily life",
+      "Back": "\u305B\u3044\u304B\u3064 (life / daily life)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c764ce73-8d4e-4345-bbac-7632422613ce",
+      "Front": "store manager",
+      "Back": "\u3066\u3093\u3061\u3087\u3046 (store manager)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "341b2125-e253-4798-b716-dbe92591b56d",
+      "Front": "diary",
+      "Back": "\u306B\u3063\u304D (diary)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "28b24908-9618-4010-befd-45a2bb819682",
+      "Front": "beginning",
+      "Back": "\u306F\u3058\u3081 (beginning)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "71c04898-7896-4cbf-9e34-ccf661e1a5db",
+      "Front": "living alone",
+      "Back": "\u3072\u3068\u308A\u3050\u3089\u3057 (living alone)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e7f17a55-3364-46b4-8cbd-c001fe601418",
+      "Front": "hiragana",
+      "Back": "\u3072\u3089\u304C\u306A (hiragana)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3195e791-8961-419c-9075-d4737af8250f",
+      "Front": "weekday",
+      "Back": "\u3078\u3044\u3058\u3064 (weekday)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "cf93ab96-181b-4327-a288-a13db73eed7c",
+      "Front": "every week / weekly",
+      "Back": "\u307E\u3044\u3057\u3085\u3046 (every week / weekly)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "213cb62f-6231-4cbd-a220-045a94ae0379",
+      "Front": "DVD",
+      "Back": "DVD (DVD)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a5b9f927-4881-467a-92ca-f418c4347727",
+      "Front": "finish",
+      "Back": "\u304A\u308F\u308A\u307E\u3059 (finish)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c04bec59-845d-4378-9e79-71a3f1131199",
+      "Front": "go regularly",
+      "Back": "\u304B\u3088\u3044\u307E\u3059 (go regularly)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c29407ce-e09e-4d8e-a3b1-0630b9a3ce60",
+      "Front": "catch a cold",
+      "Back": "\u3072\u304D\u307E\u3059 (catch a cold)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "0444bea4-4ba5-49ac-87f7-b350107fe6cd",
+      "Front": "get used to",
+      "Back": "\u306A\u308C\u307E\u3059 (get used to)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "68a35b7f-dd57-439f-9206-15a7aac0a69f",
+      "Front": "forget",
+      "Back": "\u308F\u3059\u308C\u307E\u3059 (forget)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c66f4e57-32ea-4c20-b011-86942c5cf783",
+      "Front": "take a walk",
+      "Back": "\u3055\u3093\u307D\u3057\u307E\u3059 (take a walk)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "097b6eaf-adcf-4ee5-8a37-cd217fd1dd90",
+      "Front": "lonely",
+      "Back": "\u3055\u3073\u3057\u3044 (lonely)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "74b048ca-77f2-4582-9ac5-b8bef69d9900",
+      "Front": "sleepy / drowsy",
+      "Back": "\u306D\u3080\u3044 (sleepy / drowsy)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "417af95e-a763-46cb-8352-d73225354232",
+      "Front": "generally",
+      "Back": "\u305F\u3044\u3066\u3044 (generally)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "fd7fb817-c20d-454a-b251-08a5c1102c6e",
+      "Front": "not really / quite",
+      "Back": "\u306A\u304B\u306A\u304B (not really / quite)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "bccaf262-d241-4d2e-89db-b5a8418e0173",
+      "Front": "yes / uh-huh",
+      "Back": "\u3048\u3048 (yes / uh-huh)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1b25f89b-3b44-46ea-ac89-9717376045b8",
+      "Front": "Olympics",
+      "Back": "\u30AA\u30EA\u30F3\u30D4\u30C3\u30AF (Olympics)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "3f5aaddb-383f-432b-ab93-6b7e338480fd",
+      "Front": "foreign country / abroad",
+      "Back": "\u304C\u3044\u3053\u304F (foreign country / abroad)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "357f5af9-75b4-4a48-929c-6ffa50f2fa43",
+      "Front": "elementary school student",
+      "Back": "\u3057\u3087\u3046\u304C\u304F\u305B\u3044 (elementary school student)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f0899863-c6b7-494a-91f5-51967be92747",
+      "Front": "junior high school student",
+      "Back": "\u3061\u3085\u3046\u304C\u304F\u305B\u3044 (junior high school student)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c0547600-843c-43d7-bade-2925f1153b78",
+      "Front": "athlete",
+      "Back": "\u305B\u3093\u3057\u3085 (athlete)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e46fcb25-e476-4f17-ad11-530fc6042b2f",
+      "Front": "grandfather",
+      "Back": "\u305D\u3075 (grandfather)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "110e3c87-061c-4a4a-beef-8ddb00f3cb39",
+      "Front": "pencil case",
+      "Back": "\u30DA\u30F3\u30B1\u30FC\u30B9 (pencil case)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ece09252-c11a-4da5-8461-bb837fda3ea4",
+      "Front": "CD",
+      "Back": "CD (CD)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c9701c35-ead3-46dc-9a7f-e8f1931cc2ac",
+      "Front": "begin",
+      "Back": "\u306F\u3058\u3081\u307E\u3059 (begin)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "87986dd3-1309-421c-85f9-89355f892f8c",
+      "Front": "break up",
+      "Back": "\u308F\u304B\u308C\u307E\u3059 (break up)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "89e4d6f6-a233-4384-ab59-5bb9f98b65b7",
+      "Front": "marry",
+      "Back": "\u3051\u3063\u3053\u3093\u3057\u307E\u3059 (marry)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "2ac977b5-4d60-40ce-bac5-9151aafec773",
+      "Front": "graduate",
+      "Back": "\u305D\u3064\u304E\u3087\u3046\u3057\u307E\u3059 (graduate)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f29d1a64-c096-4241-a829-20b015da8c38",
+      "Front": "enter school / enroll",
+      "Back": "\u306B\u3085\u3046\u304C\u304F\u3057\u307E\u3059 (enter school / enroll)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6c2420bf-13ec-4e70-aa16-3e0934fe77e3",
+      "Front": "gradually",
+      "Back": "\u3060\u3093\u3060\u3093 (gradually)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8bd38720-1276-4e69-964d-463ce8c7beee",
+      "Front": "for the first time",
+      "Back": "\u306F\u3058\u3081\u3066 (for the first time)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9a585bc0-85a6-45c3-ab37-d87377689ee7",
+      "Front": "so / because of that",
+      "Back": "\u305D\u308C\u3067 (so / because of that)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e7c28d2e-547b-4cb7-9b82-5cc8a0cf3d98",
+      "Front": "air conditioner",
+      "Back": "\u30A8\u30A2\u30B3\u30F3 (air conditioner)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "089667c5-95d1-49d3-af40-9e408c379aa1",
+      "Front": "news",
+      "Back": "\u30CB\u30E5\u30FC\u30B9 (news)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c975206b-841b-4484-a91e-414ce8fdc06b",
+      "Front": "turn off",
+      "Back": "\u3051\u3057\u307E\u3059 (turn off)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "55649827-bbdb-47f5-b0b5-a446f6b3ee0c",
+      "Front": "turn on",
+      "Back": "\u3064\u3051\u307E\u3059 (turn on)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4a71f66c-f243-4602-80d8-5ec62bfd99bf",
+      "Front": "move residence",
+      "Back": "\u3072\u3063\u3053\u3057\u3057\u307E\u3059 (move residence)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "a72301c4-34c5-426d-9d45-8ee8d3d016ac",
+      "Front": "again",
+      "Back": "\u307E\u305F (again)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "16e3e667-8172-4692-bf3b-4634b2c54cce",
+      "Front": "yeah / alright",
+      "Back": "\u3046\u3093 (yeah / alright)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "580d57bd-90a8-410c-bbad-dfdff6d4dd75",
+      "Front": "no",
+      "Back": "\u3046\u3046\u3093 (no)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d61e6671-952b-4da2-b8b1-1730f548ffeb",
+      "Front": "sorry",
+      "Back": "\u3054\u3081\u3093 (sorry)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "6a4cfd79-bb56-4244-b939-2389cdb92f0e",
+      "Front": "oh, I see",
+      "Back": "\u305D\u3063\u304B (oh, I see)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "e7ec9f4d-7cb5-485f-9196-f616905fbdeb",
+      "Front": "one more time",
+      "Back": "\u3082\u3046\u3044\u3061\u3069 (one more time)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d56c929a-a2f5-4ac9-83dd-6b2dcfea4bcb",
+      "Front": "World Cup",
+      "Back": "\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7 (World Cup)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4a8469f8-d43f-418a-8ecc-c1b00b66993e",
+      "Front": "sorry to keep you waiting",
+      "Back": "\u304A\u307E\u305F\u305B\u3057\u307E\u3057\u305F (sorry to keep you waiting)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "10f53b89-9516-4198-910c-315bf6cdc3db",
+      "Front": "you were late",
+      "Back": "\u304A\u305D\u304B\u3063\u305F\u306D (you were late)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "aa6a093b-c272-470f-bf39-2c9494eeb782",
+      "Front": "cheers",
+      "Back": "\u304B\u3093\u3071\u3044 (cheers)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
+}

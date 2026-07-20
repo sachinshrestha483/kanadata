@@ -1,0 +1,168 @@
+{
+  "Id": "4f75c11c-8552-4a8d-bb99-c0792996cd95",
+  "Title": "Ch 11 Kanji Reading ",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "992a859d-5589-45a1-88bf-303b2c7538f6",
+      "Front": "\u4F53",
+      "Back": "\u304B\u3089\u3060 (body)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "84a632de-fa79-4489-a7a7-600b31ed424d",
+      "Front": "\u4F53\u91CD",
+      "Back": "\u305F\u3044\u3058\u3085\u3046 (body weight)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "f2e1fa2b-10df-4323-b1f0-046b556cb558",
+      "Front": "\u76EE",
+      "Back": "\u3081 (eye)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1442a82a-881c-4bcc-8e95-2aa87fce48e8",
+      "Front": "\uFF11\u3064\u76EE",
+      "Back": "\u3072\u3068\u3064\u3081 (first / one-eyed)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "28ba1fb5-a7d6-4c9a-b6e8-dd7fff739761",
+      "Front": "\u8033",
+      "Back": "\u307F\u307F (ear)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7a1f724e-5ac0-4cec-a039-a11a3d83cfc9",
+      "Front": "\u53E3",
+      "Back": "\u304F\u3061 (mouth)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "329a62ca-d8fb-486b-95e1-e529bc21d12a",
+      "Front": "\u5317\u53E3",
+      "Back": "\u304D\u305F\u3050\u3061 (north exit)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "1ecd8c10-31c7-4a74-8cb9-1962f8edc84e",
+      "Front": "\u6B6F",
+      "Back": "\u306F (tooth)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "8d79c6bd-e90a-4e2b-bc6f-02fe76d091bc",
+      "Front": "\u75C5\u6C17",
+      "Back": "\u3073\u3087\u3046\u304D (illness / sickness)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "9a4b350f-3db5-4ef8-bef5-f1427f5c9399",
+      "Front": "\u75C5\u9662",
+      "Back": "\u3073\u3087\u3046\u3044\u3093 (hospital)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4b14bb6f-3491-44c3-956d-ff72ea51fe68",
+      "Front": "\u9662",
+      "Back": "\u3044\u3093 (institution / hospital)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "d0c8ae24-4c7a-4a82-bbc5-1563e3c63649",
+      "Front": "\u75C5\u9662",
+      "Back": "\u3073\u3087\u3046\u3044\u3093 (hospital)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b37b8653-6c19-493f-b4db-4a57cc0126f5",
+      "Front": "\u85AC",
+      "Back": "\u304F\u3059\u308A (medicine)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7e14bd82-51a4-44ef-a0dc-c3de08891d29",
+      "Front": "\u85AC\u5C40",
+      "Back": "\u3084\u3063\u304D\u3087\u304F (pharmacy)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "c157c78d-d5c2-4d8a-b8b6-d46891de1983",
+      "Front": "\u5C40",
+      "Back": "\u304D\u3087\u304F (office / bureau)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "4539e900-efef-4d4b-9ffa-598e4782f9f8",
+      "Front": "\u85AC\u5C40",
+      "Back": "\u3084\u3063\u304D\u3087\u304F (pharmacy)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "b1b0e6ca-79fa-4e93-954d-22873174362e",
+      "Front": "\u71B1",
+      "Back": "\u306D\u3064 (fever)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "fca83de3-eea8-4651-b703-5243046f960e",
+      "Front": "\u53D7\u4ED8",
+      "Back": "\u3046\u3051\u3064\u3051 (reception / information desk)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "ecaa20f6-5fd2-4a98-ab08-ed0da0c68465",
+      "Front": "\u5185\u79D1",
+      "Back": "\u306A\u3044\u304B (internal medicine)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    },
+    {
+      "Id": "7503f515-3026-481d-aa80-b80a2d552121",
+      "Front": "\u5916\u79D1",
+      "Back": "\u3052\u304B (surgery department)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "Items": []
+    }
+  ]
+}

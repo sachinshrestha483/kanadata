@@ -160,5 +160,11 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "Ch 11 Kanji Reading "
+  },
+  {
+    "Id": "984a39a8-26fa-4456-a274-36ac4e1e0e1a",
+    "DisplayOrder": 0,
+    "IsVisible": false,
+    "Subject": "test"
   }
 ]

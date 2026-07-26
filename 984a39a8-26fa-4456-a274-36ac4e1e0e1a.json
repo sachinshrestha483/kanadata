@@ -1,0 +1,19 @@
+{
+  "Id": "984a39a8-26fa-4456-a274-36ac4e1e0e1a",
+  "Title": "test",
+  "DisplayOrder": 0,
+  "IsVisible": false,
+  "Items": [
+    {
+      "Id": "52efb02b-3901-4729-bd25-dcade43af10c",
+      "Front": "sdsd",
+      "Back": "s",
+      "IsVisible": true,
+      "IsBothSideCard": true,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    }
+  ]
+}

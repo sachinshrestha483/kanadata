@@ -1,0 +1,272 @@
+{
+  "Id": "58a2d198-9ff9-4762-88a4-a036c5dae2d9",
+  "Title": "Chapter 11 Kanji Reading",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "33a31d51-bce9-41de-8bd6-1c36c9d39a2d",
+      "Front": "\u8D77",
+      "Back": "\u304A\u304D\u308B (wake up)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "7acee52a-5eed-4805-9977-f86d1cba22b8",
+      "Front": "\u8D77\u304D\u307E\u3059",
+      "Back": "\u304A\u304D\u307E\u3059 (wake up)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "8a632890-9602-4de4-8943-a8361372f136",
+      "Front": "\u6563\u6B69",
+      "Back": "\u3055\u3093\u307D (walk / stroll)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "8caf4e4d-0614-45fa-bf19-b4bec796eb97",
+      "Front": "\u6B69\u304D\u307E\u3059",
+      "Back": "\u3042\u308B\u304D\u307E\u3059 (to walk)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "bacc9e1e-dc01-4c8b-a890-28213d0746db",
+      "Front": "\u4E57",
+      "Back": "\u306E\u308B (ride / get on)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "5553f6f8-64c5-4603-948f-7c849a8a596b",
+      "Front": "\u4E57\u308A\u307E\u3059",
+      "Back": "\u306E\u308A\u307E\u3059 (ride / get on)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "6ee92383-050b-489d-bd18-0f55180606fc",
+      "Front": "\u59CB",
+      "Back": "\u306F\u3058\u3081\u308B (begin / start)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "ea6cf9fc-3fdb-4870-87b9-cb06b0ed506a",
+      "Front": "\u59CB\u3081\u307E\u3059",
+      "Back": "\u306F\u3058\u3081\u307E\u3059 (to start)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "8e2a342c-d230-4c2d-845b-a06a752cecc9",
+      "Front": "\u59CB\u307E\u308A\u307E\u3059",
+      "Back": "\u306F\u3058\u307E\u308A\u307E\u3059 (to begin)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "1dc67489-4539-49c9-9a85-cfeaf6078608",
+      "Front": "\u7D42",
+      "Back": "\u304A\u308F\u308B (end / finish)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "3606ec7c-10ef-4764-8b2e-b20957751f87",
+      "Front": "\u7D42\u308F\u308A\u307E\u3059",
+      "Back": "\u304A\u308F\u308A\u307E\u3059 (to finish)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "ae7f40ea-0422-4b57-8cb2-f56cdfdb71ec",
+      "Front": "\u52C9",
+      "Back": "\u3079\u3093 (diligence / study)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "7fa86762-7db3-4c90-b416-f23b2f9bfc58",
+      "Front": "\u52C9\u5F37",
+      "Back": "\u3079\u3093\u304D\u3087\u3046 (study)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "ccc817a0-4b2d-46b1-9693-4f1613e71fe6",
+      "Front": "\u5F37\u3044",
+      "Back": "\u3064\u3088\u3044 (strong)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "162db3f5-02c4-4b68-ac7a-cb6b6b171b41",
+      "Front": "\u52C9\u5F37",
+      "Back": "\u3079\u3093\u304D\u3087\u3046 (study)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "a18c7a81-660c-4809-b07b-afc40eeec9fc",
+      "Front": "\u671D",
+      "Back": "\u3042\u3055 (morning)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "acc157ed-dd1d-4dac-badc-e17f15526f66",
+      "Front": "\u4ECA\u671D",
+      "Back": "\u3051\u3055 (this morning)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "6b400dd0-42fd-4cb5-8b9a-9488f6d800c7",
+      "Front": "\u671D\u98DF",
+      "Back": "\u3061\u3087\u3046\u3057\u3087\u304F (breakfast)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "b05ba2ff-c582-46f1-91b0-f393581f2461",
+      "Front": "\u663C",
+      "Back": "\u3072\u308B (daytime / noon)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "bf3cdc46-62c9-4f15-a0e7-8e2b2b663519",
+      "Front": "\u591C",
+      "Back": "\u3088\u308B (night)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "b27cdb3d-fea8-4180-8e46-8547a564e60a",
+      "Front": "\u4ECA\u591C",
+      "Back": "\u3053\u3093\u3084 (tonight)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "70e4b521-9300-44ac-aaff-7204c641d4a6",
+      "Front": "\u81EA\u8EE2\u8ECA",
+      "Back": "\u3058\u3066\u3093\u3057\u3083 (bicycle)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "0e8419f7-ad18-49d7-a937-5b8f53798f75",
+      "Front": "\u5BDD\u308B",
+      "Back": "\u306D\u308B (to sleep)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "cd84316c-7f30-4907-8d48-d4b279a1e32e",
+      "Front": "\u96C6\u5408",
+      "Back": "\u3057\u3085\u3046\u3054\u3046 (gathering / assembly)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    }
+  ]
+}

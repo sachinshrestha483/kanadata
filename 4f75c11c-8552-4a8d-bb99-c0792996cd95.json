@@ -1,6 +1,6 @@
 {
   "Id": "4f75c11c-8552-4a8d-bb99-c0792996cd95",
-  "Title": "Ch 11 Kanji Reading ",
+  "Title": "Ch 12  Kanji Reading ",
   "DisplayOrder": 0,
   "IsVisible": true,
   "Items": [
@@ -10,6 +10,9 @@
       "Back": "\u304B\u3089\u3060 (body)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -18,6 +21,9 @@
       "Back": "\u305F\u3044\u3058\u3085\u3046 (body weight)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -26,6 +32,9 @@
       "Back": "\u3081 (eye)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -34,6 +43,9 @@
       "Back": "\u3072\u3068\u3064\u3081 (first / one-eyed)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -42,6 +54,9 @@
       "Back": "\u307F\u307F (ear)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -50,6 +65,9 @@
       "Back": "\u304F\u3061 (mouth)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -58,6 +76,9 @@
       "Back": "\u304D\u305F\u3050\u3061 (north exit)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -66,6 +87,9 @@
       "Back": "\u306F (tooth)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -74,6 +98,9 @@
       "Back": "\u3073\u3087\u3046\u304D (illness / sickness)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -82,6 +109,9 @@
       "Back": "\u3073\u3087\u3046\u3044\u3093 (hospital)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -90,6 +120,9 @@
       "Back": "\u3044\u3093 (institution / hospital)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -98,6 +131,9 @@
       "Back": "\u3073\u3087\u3046\u3044\u3093 (hospital)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -106,6 +142,9 @@
       "Back": "\u304F\u3059\u308A (medicine)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -114,6 +153,9 @@
       "Back": "\u3084\u3063\u304D\u3087\u304F (pharmacy)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -122,6 +164,9 @@
       "Back": "\u304D\u3087\u304F (office / bureau)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -130,6 +175,9 @@
       "Back": "\u3084\u3063\u304D\u3087\u304F (pharmacy)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -138,6 +186,9 @@
       "Back": "\u306D\u3064 (fever)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -146,6 +197,9 @@
       "Back": "\u3046\u3051\u3064\u3051 (reception / information desk)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -154,6 +208,9 @@
       "Back": "\u306A\u3044\u304B (internal medicine)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     },
     {
@@ -162,6 +219,9 @@
       "Back": "\u3052\u304B (surgery department)",
       "IsVisible": true,
       "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
       "Items": []
     }
   ]

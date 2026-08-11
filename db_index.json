@@ -159,7 +159,7 @@
     "Id": "4f75c11c-8552-4a8d-bb99-c0792996cd95",
     "DisplayOrder": 0,
     "IsVisible": true,
-    "Subject": "Ch 11 Kanji Reading "
+    "Subject": "Ch 12 Kanji Reading "
   },
   {
     "Id": "984a39a8-26fa-4456-a274-36ac4e1e0e1a",
@@ -171,6 +171,12 @@
     "Id": "c5293867-ef54-47f4-936b-3d60f0e639e5",
     "DisplayOrder": 0,
     "IsVisible": true,
-    "Subject": "Ch 12 Reading"
+    "Subject": "Ch 13 Kanji Reading"
+  },
+  {
+    "Id": "58a2d198-9ff9-4762-88a4-a036c5dae2d9",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "Chapter 11 Kanji Reading"
   }
 ]

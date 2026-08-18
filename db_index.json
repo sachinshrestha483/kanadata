@@ -196,5 +196,11 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "Miscellanous Kanji"
+  },
+  {
+    "Id": "926a3233-6b82-4bb3-8705-4caa8afb0a25",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "Yomeru And Mite Wakaru Kanji"
   }
 ]

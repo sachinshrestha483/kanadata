@@ -190,5 +190,11 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "Ch 15 Kanji Reading"
+  },
+  {
+    "Id": "5f62e83f-55e9-48bb-b6b9-5a73786b3b9c",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "Miscellanous Kanji"
   }
 ]

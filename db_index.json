@@ -208,5 +208,23 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "Kanji Tamago All Intividual Kanji"
+  },
+  {
+    "Id": "3de08153-a03f-4b7f-a410-1092085d1148",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "N5 Basic Component"
+  },
+  {
+    "Id": "2eba3539-f7d6-4331-8110-3a78f0170a3e",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "N4 Basic Component"
+  },
+  {
+    "Id": "9a067498-8b0f-4530-b6cd-6cff8c6bddf0",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "N3 Basic Component"
   }
 ]

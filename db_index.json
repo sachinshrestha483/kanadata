@@ -214,5 +214,17 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "N5 Basic Component"
+  },
+  {
+    "Id": "647f28e8-bc5e-47a5-b405-f01df2c205bf",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "N4 Basic Component"
+  },
+  {
+    "Id": "8eb9eb79-8e28-41ee-b456-90376f92250b",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "N3 Basic Components"
   }
 ]

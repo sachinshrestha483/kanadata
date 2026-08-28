@@ -226,5 +226,11 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "N3 Basic Component"
+  },
+  {
+    "Id": "9f8410f5-a759-4b1f-a0b1-345b02838625",
+    "DisplayOrder": 0,
+    "IsVisible": false,
+    "Subject": "Kanji Ch 11 Writing Test"
   }
 ]

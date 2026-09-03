@@ -250,5 +250,11 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "Kanji 040926 Test"
+  },
+  {
+    "Id": "64df1f00-59da-4aca-b59d-e481831d8bcf",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "Kanji Today Test"
   }
 ]

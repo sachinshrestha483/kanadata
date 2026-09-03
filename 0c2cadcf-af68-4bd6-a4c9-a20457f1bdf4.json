@@ -861,6 +861,226 @@
       "FrontCardImageId": null,
       "BackCardImageId": null,
       "Items": []
+    },
+    {
+      "Id": "610d11d9-d717-43b9-8c16-239ec0aa9586",
+      "Front": "8\u3058\u306B\u304A\u304D\u307E\u3059",
+      "Back": "\u516B\u6642\u306B\u8D77\u304D\u307E\u3059 (get up at 8 o\u0027clock)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "a2979e22-4d32-4e82-bf2a-f6daabf29b62",
+      "Front": "\u3042\u308B\u304D\u307E\u3059",
+      "Back": "\u6B69\u304D\u307E\u3059 (walk)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "8d24eb78-16bb-4efb-b498-27b1ab924d4a",
+      "Front": "\u3067\u3093\u3057\u3083\u306B\u306E\u308A\u307E\u3059",
+      "Back": "\u96FB\u8ECA\u306B\u4E57\u308A\u307E\u3059 (ride a train)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "c1ea5e1b-7427-49f0-b52f-5f65011f90a3",
+      "Front": "\u306F\u3058\u3081\u307E\u3059",
+      "Back": "\u59CB\u3081\u307E\u3059 (start/begin)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "73fce2a2-8051-4067-a34e-8c0aee0ea733",
+      "Front": "\u304A\u308F\u308A\u307E\u3059",
+      "Back": "\u7D42\u308F\u308A\u307E\u3059 (end/finish)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "74135df1-0f35-41fb-9302-8bab21896ea0",
+      "Front": "\u3079\u3093\u304D\u3087\u3046",
+      "Back": "\u52C9\u5F37 (study)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "1fb4820e-02e7-48b3-a8ec-4584ee816b46",
+      "Front": "\u3064\u3088\u3044",
+      "Back": "\u5F37\u3044 (strong)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "17d7d2e3-3ca8-42a4-89d2-5fb4a2dbfd50",
+      "Front": "\u3042\u3055",
+      "Back": "\u671D (morning)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "c89613bd-1081-41ae-b3f3-542ab120c0b2",
+      "Front": "\u3072\u308B",
+      "Back": "\u663C (noon/daytime)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "9b57d550-2c93-4e58-83ae-6ff9cb6532d0",
+      "Front": "\u3088\u308B",
+      "Back": "\u591C (night)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "dc9f20d5-4db9-406b-9637-e977cc73e1f8",
+      "Front": "\u3055\u3093\u307D",
+      "Back": "\u6563\u6B69 (walk/stroll)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "8823df19-ef3d-4223-a078-97ad2d79e160",
+      "Front": "\u3051\u3055",
+      "Back": "\u4ECA\u671D (this morning)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "8935fb20-27d0-49c3-bfab-7cd270826414",
+      "Front": "\u3053\u3093\u3084",
+      "Back": "\u4ECA\u591C (tonight)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "4398a95b-533a-41af-a023-6e318d5b232a",
+      "Front": "\u304B\u305E\u304F",
+      "Back": "\u5BB6\u65CF (family)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "6c9430c9-b506-4a40-9947-985441280039",
+      "Front": "\u306B\u307B\u3093\u308A\u3087\u3046\u308A",
+      "Back": "\u65E5\u672C\u6599\u7406 (Japanese cuisine)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "66c8e96e-8307-4b03-bbd1-66cda27002d9",
+      "Front": "\u3058\u3057\u3087",
+      "Back": "\u8F9E\u66F8 (dictionary)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "a4790399-c9f2-4787-9c7f-dba667fbc139",
+      "Front": "\u3067\u3093\u308F",
+      "Back": "\u96FB\u8A71 (telephone/phone call)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "089991f4-62e1-4591-b571-2910e838e77d",
+      "Front": "\u3053\u3068\u3057",
+      "Back": "\u4ECA\u5E74 (this year)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "b4b01ab8-85b8-4636-909e-127ead3f7454",
+      "Front": "\u3046\u3057\u308D",
+      "Back": "\u5F8C\u308D (behind/back)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "1c82bd04-6a90-40ec-b308-1701e13aab05",
+      "Front": "\u3068\u3046\u304D\u3087\u3046",
+      "Back": "\u6771\u4EAC (Tokyo)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
     }
   ]
 }

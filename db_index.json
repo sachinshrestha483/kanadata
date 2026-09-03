@@ -244,5 +244,11 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "Kanji Test 11-12"
+  },
+  {
+    "Id": "55be267d-f642-4b69-af6d-10721f801f15",
+    "DisplayOrder": 0,
+    "IsVisible": false,
+    "Subject": "Kanji 040926 Test"
   }
 ]

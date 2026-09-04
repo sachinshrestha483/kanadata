@@ -256,5 +256,11 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "Kanji Today Test"
+  },
+  {
+    "Id": "c6b5d3b9-3531-444c-a0f4-9f39d0f0f213",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "Chapter 12 Writing Test"
   }
 ]

@@ -1,0 +1,184 @@
+{
+  "Id": "c6b5d3b9-3531-444c-a0f4-9f39d0f0f213",
+  "Title": "Chapter 12 Writing Test",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "528bda8f-79ac-4c3e-9b93-2ce0be68fe42",
+      "Front": "\u304B\u3089\u3060",
+      "Back": "\u4F53 (body)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "5fa184f7-4273-43bd-b937-d8b74365e1a9",
+      "Front": "\u3081",
+      "Back": "\u76EE (eye)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "390fb898-2a7b-448d-81f1-6d1138a489d5",
+      "Front": "\u3072\u3068\u3064\u3081",
+      "Back": "\uFF11\u3064\u76EE (first / one-eyed)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "ace5bfb1-48ff-48f4-b992-e10539c48be2",
+      "Front": "\u307F\u307F",
+      "Back": "\u8033 (ear)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "371c5bc4-324c-476b-84ee-d6e327b4d340",
+      "Front": "\u304F\u3061",
+      "Back": "\u53E3 (mouth)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "36748c98-ff3c-4039-b102-6840db7643d0",
+      "Front": "\u304D\u305F\u3050\u3061",
+      "Back": "\u5317\u53E3 (north exit)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "8af4dcee-5a6f-4d48-b00e-33e51a35dd2b",
+      "Front": "\u306F",
+      "Back": "\u6B6F (tooth)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "041aa265-950f-4f86-b86d-2befeab5d6c4",
+      "Front": "\u3073\u3087\u3046\u304D",
+      "Back": "\u75C5\u6C17 (illness / sickness)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "fed829cb-c6f3-4616-bbc3-c44cf3263404",
+      "Front": "\u3073\u3087\u3046\u3044\u3093",
+      "Back": "\u75C5\u9662 (hospital)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "152b62e7-d4d6-47d1-a524-11f4b41260f6",
+      "Front": "\u3044\u3093",
+      "Back": "\u9662 (institution / hospital)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "507d4705-5809-42b9-a2fb-ec10caca690b",
+      "Front": "\u3073\u3087\u3046\u3044\u3093",
+      "Back": "\u75C5\u9662 (hospital)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "dda1115e-b5d9-4029-b7be-62dc482bcbfb",
+      "Front": "\u304F\u3059\u308A",
+      "Back": "\u85AC (medicine)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "667c3ea4-a6a8-45fd-a28e-a4f437fe38a7",
+      "Front": "\u3084\u3063\u304D\u3087\u304F",
+      "Back": "\u85AC\u5C40 (pharmacy)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "1fb1d7f6-c4d1-4d14-b6d6-00124a9ab784",
+      "Front": "\u304D\u3087\u304F",
+      "Back": "\u5C40 (office / bureau)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "f4b9e086-d9fa-4c0b-9e49-7b7582744de5",
+      "Front": "\u3084\u3063\u304D\u3087\u304F",
+      "Back": "\u85AC\u5C40 (pharmacy)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    },
+    {
+      "Id": "f48686f0-a0a5-42f9-b1a6-f6e06e5f0fad",
+      "Front": "\u306D\u3064",
+      "Back": "\u71B1 (fever)",
+      "IsVisible": true,
+      "IsBothSideCard": false,
+      "IsImageOcculsionCard": false,
+      "FrontCardImageId": null,
+      "BackCardImageId": null,
+      "Items": []
+    }
+  ]
+}

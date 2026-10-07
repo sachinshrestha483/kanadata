@@ -292,5 +292,11 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "Aki Yasumi Kanji  Family \u0026 People"
+  },
+  {
+    "Id": "2a42d5b3-5953-471c-bd66-e1b5678ac4ef",
+    "DisplayOrder": 0,
+    "IsVisible": false,
+    "Subject": "Ch 14 Writing Test"
   }
 ]
